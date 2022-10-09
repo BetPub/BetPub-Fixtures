@@ -6408,9 +6408,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 51
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -6427,17 +6427,17 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         },
         "score": {
@@ -6446,8 +6446,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -6748,9 +6748,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 55
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -6767,17 +6767,17 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 3,
             "away": 1
         },
         "score": {
@@ -6786,8 +6786,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 1
             },
             "extratime": {
                 "home": null,
