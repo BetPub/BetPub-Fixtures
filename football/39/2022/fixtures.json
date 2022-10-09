@@ -6196,7 +6196,7 @@
             "timestamp": 1665329400,
             "periods": {
                 "first": 1665329400,
-                "second": null
+                "second": 1665333000
             },
             "venue": {
                 "id": 494,
@@ -6204,9 +6204,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 39
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 84
             }
         },
         "league": {
@@ -6223,22 +6223,22 @@
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 3,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": 1,
+                "home": 2,
                 "away": 1
             },
             "fulltime": {
