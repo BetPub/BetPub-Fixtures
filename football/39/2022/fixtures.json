@@ -6190,7 +6190,7 @@
     {
         "fixture": {
             "id": 868037,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-10-09T15:30:00+00:00",
             "timestamp": 1665329400,
@@ -6204,9 +6204,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 84
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -6242,8 +6242,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -6467,7 +6467,7 @@
             "date": "2022-10-09T18:00:00+00:00",
             "timestamp": 1665338400,
             "periods": {
-                "first": null,
+                "first": 1665338400,
                 "second": null
             },
             "venue": {
@@ -6476,9 +6476,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 17
             }
         },
         "league": {
@@ -6505,13 +6505,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
