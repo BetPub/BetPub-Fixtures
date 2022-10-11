@@ -70,13 +70,13 @@
     {
         "fixture": {
             "id": 868037,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-10-09T15:30:00+00:00",
             "timestamp": 1665329400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1665329400,
+                "second": 1665333000
             },
             "venue": {
                 "id": 494,
@@ -84,9 +84,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -103,27 +103,27 @@
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -274,13 +274,13 @@
     {
         "fixture": {
             "id": 868040,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1665320400,
+                "second": 1665324000
             },
             "venue": {
                 "id": 525,
@@ -288,9 +288,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -307,27 +307,27 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -342,13 +342,13 @@
     {
         "fixture": {
             "id": 868041,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-10-09T18:00:00+00:00",
             "timestamp": 1665338400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1665338400,
+                "second": 1665342000
             },
             "venue": {
                 "id": 8560,
@@ -356,9 +356,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -375,27 +375,27 @@
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
                 "logo": "https://media.api-sports.io/football/teams/33.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -546,13 +546,13 @@
     {
         "fixture": {
             "id": 868044,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-10T19:00:00+00:00",
             "timestamp": 1665428400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1665428400,
+                "second": 1665432000
             },
             "venue": {
                 "id": 566,
@@ -560,9 +560,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -589,17 +589,17 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -614,13 +614,13 @@
     {
         "fixture": {
             "id": 868045,
-            "referee": "C. Kavanagh",
+            "referee": "Chris Kavanagh, England",
             "timezone": "UTC",
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1665320400,
+                "second": 1665324000
             },
             "venue": {
                 "id": 598,
@@ -628,9 +628,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -647,27 +647,27 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 1
             },
             "extratime": {
                 "home": null,
