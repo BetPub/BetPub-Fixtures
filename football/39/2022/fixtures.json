@@ -6808,7 +6808,7 @@
             "timestamp": 1665925200,
             "periods": {
                 "first": 1665925200,
-                "second": null
+                "second": 1665928800
             },
             "venue": {
                 "id": 495,
@@ -6816,9 +6816,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 11
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 54
             }
         },
         "league": {
@@ -7020,9 +7020,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Match Interrupted",
-                "short": "INT",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 35
             }
         },
         "league": {
@@ -7216,7 +7216,7 @@
             "timestamp": 1665925200,
             "periods": {
                 "first": 1665925200,
-                "second": null
+                "second": 1665928800
             },
             "venue": {
                 "id": 556,
@@ -7224,9 +7224,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 12
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 54
             }
         },
         "league": {
@@ -7284,7 +7284,7 @@
             "timestamp": 1665925200,
             "periods": {
                 "first": 1665925200,
-                "second": null
+                "second": 1665928800
             },
             "venue": {
                 "id": 585,
@@ -7292,9 +7292,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 13
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 55
             }
         },
         "league": {
@@ -7311,22 +7311,22 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
