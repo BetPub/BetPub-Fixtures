@@ -613,6 +613,142 @@
     },
     {
         "fixture": {
+            "id": 855769,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-02T15:00:00+00:00",
+            "timestamp": 1669993200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Education City Stadium",
+                "city": "Ar-Rayyan"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Group Stage - 3"
+        },
+        "teams": {
+            "home": {
+                "id": 17,
+                "name": "South Korea",
+                "logo": "https://media.api-sports.io/football/teams/17.png",
+                "winner": null
+            },
+            "away": {
+                "id": 27,
+                "name": "Portugal",
+                "logo": "https://media.api-sports.io/football/teams/27.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 855770,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-02T15:00:00+00:00",
+            "timestamp": 1669993200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Al Janoub Stadium",
+                "city": "Al Wakrah"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Group Stage - 3"
+        },
+        "teams": {
+            "home": {
+                "id": 1504,
+                "name": "Ghana",
+                "logo": "https://media.api-sports.io/football/teams/1504.png",
+                "winner": null
+            },
+            "away": {
+                "id": 7,
+                "name": "Uruguay",
+                "logo": "https://media.api-sports.io/football/teams/7.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 866683,
             "referee": null,
             "timezone": "UTC",
