@@ -9732,7 +9732,7 @@
             "timestamp": 1667660400,
             "periods": {
                 "first": 1667660400,
-                "second": null
+                "second": 1667664000
             },
             "venue": {
                 "id": 546,
@@ -9740,9 +9740,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 13
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
@@ -9759,12 +9759,80 @@
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 2
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 868090,
+            "referee": "England Darren, England",
+            "timezone": "UTC",
+            "date": "2022-11-05T15:00:00+00:00",
+            "timestamp": 1667660400,
+            "periods": {
+                "first": 1667660400,
+                "second": 1667664000
+            },
+            "venue": {
+                "id": 555,
+                "name": "Etihad Stadium",
+                "city": "Manchester"
+            },
+            "status": {
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 48
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "winner": null
+            },
+            "away": {
+                "id": 36,
+                "name": "Fulham",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -9793,74 +9861,6 @@
     },
     {
         "fixture": {
-            "id": 868090,
-            "referee": "England Darren, England",
-            "timezone": "UTC",
-            "date": "2022-11-05T15:00:00+00:00",
-            "timestamp": 1667660400,
-            "periods": {
-                "first": 1667660400,
-                "second": null
-            },
-            "venue": {
-                "id": 555,
-                "name": "Etihad Stadium",
-                "city": "Manchester"
-            },
-            "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 13
-            }
-        },
-        "league": {
-            "id": 39,
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://media.api-sports.io/football/leagues/39.png",
-            "flag": "https://media.api-sports.io/flags/gb.svg",
-            "season": 2022,
-            "round": "Regular Season - 15"
-        },
-        "teams": {
-            "home": {
-                "id": 50,
-                "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
-            },
-            "away": {
-                "id": 36,
-                "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        },
-        "score": {
-            "halftime": {
-                "home": 0,
-                "away": 0
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 868091,
             "referee": "Andre Marriner, England",
             "timezone": "UTC",
@@ -9868,7 +9868,7 @@
             "timestamp": 1667660400,
             "periods": {
                 "first": 1667660400,
-                "second": null
+                "second": 1667664000
             },
             "venue": {
                 "id": 566,
@@ -9876,9 +9876,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 14
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 46
             }
         },
         "league": {
@@ -9905,13 +9905,13 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 0
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -10148,9 +10148,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 13
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -10177,13 +10177,13 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": 1,
-                "away": 1
+                "home": 2,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
