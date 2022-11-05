@@ -9672,9 +9672,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 88
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -9710,8 +9710,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
