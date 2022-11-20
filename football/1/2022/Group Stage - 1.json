@@ -144,7 +144,7 @@
             "timestamp": 1668960000,
             "periods": {
                 "first": 1668960000,
-                "second": null
+                "second": 1668963600
             },
             "venue": {
                 "id": null,
@@ -152,9 +152,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 30
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 69
             }
         },
         "league": {
@@ -182,12 +182,12 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 1
+                "away": 2
             },
             "fulltime": {
                 "home": null,
