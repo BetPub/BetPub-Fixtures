@@ -152,9 +152,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 64
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -190,8 +190,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
