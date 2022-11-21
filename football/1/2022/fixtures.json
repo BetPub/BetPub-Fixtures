@@ -8,7 +8,7 @@
             "timestamp": 1669046400,
             "periods": {
                 "first": 1669046400,
-                "second": null
+                "second": 1669050000
             },
             "venue": {
                 "id": null,
@@ -16,9 +16,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -35,18 +35,18 @@
                 "id": 13,
                 "name": "Senegal",
                 "logo": "https://media.api-sports.io/football/teams/13.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
