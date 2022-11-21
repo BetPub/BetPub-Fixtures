@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 855735,
-            "referee": "Raphael Claus",
+            "referee": "Raphael Claus, Brazil",
             "timezone": "UTC",
             "date": "2022-11-21T13:00:00+00:00",
             "timestamp": 1669035600,
@@ -81,7 +81,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Not Started",
