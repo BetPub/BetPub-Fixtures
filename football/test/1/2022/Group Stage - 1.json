@@ -75,7 +75,7 @@
             "date": "2022-11-21T13:00:00+00:00",
             "timestamp": 1669035600,
             "periods": {
-                "first": null,
+                "first": 1669035600,
                 "second": null
             },
             "venue": {
@@ -84,9 +84,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -103,23 +103,23 @@
                 "id": 10,
                 "name": "England",
                 "logo": "https://media.api-sports.io/football/teams/10.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 22,
                 "name": "Iran",
                 "logo": "https://media.api-sports.io/football/teams/22.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
