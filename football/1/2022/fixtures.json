@@ -2660,7 +2660,7 @@
             "timestamp": 1669057200,
             "periods": {
                 "first": 1669057200,
-                "second": null
+                "second": 1669060800
             },
             "venue": {
                 "id": null,
@@ -2668,9 +2668,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -2687,18 +2687,18 @@
                 "id": 2384,
                 "name": "USA",
                 "logo": "https://media.api-sports.io/football/teams/2384.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 767,
                 "name": "Wales",
                 "logo": "https://media.api-sports.io/football/teams/767.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
