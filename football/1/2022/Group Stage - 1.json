@@ -76,7 +76,7 @@
             "timestamp": 1669035600,
             "periods": {
                 "first": 1669035600,
-                "second": null
+                "second": 1669039200
             },
             "venue": {
                 "id": null,
@@ -84,9 +84,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 84
             }
         },
         "league": {
@@ -113,8 +113,8 @@
             }
         },
         "goals": {
-            "home": 3,
-            "away": 0
+            "home": 5,
+            "away": 1
         },
         "score": {
             "halftime": {
