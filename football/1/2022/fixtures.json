@@ -2659,7 +2659,7 @@
             "date": "2022-11-21T19:00:00+00:00",
             "timestamp": 1669057200,
             "periods": {
-                "first": null,
+                "first": 1669057200,
                 "second": null
             },
             "venue": {
@@ -2668,9 +2668,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -2687,23 +2687,23 @@
                 "id": 2384,
                 "name": "USA",
                 "logo": "https://media.api-sports.io/football/teams/2384.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 767,
                 "name": "Wales",
                 "logo": "https://media.api-sports.io/football/teams/767.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
