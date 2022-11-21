@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 855734,
-            "referee": null,
+            "referee": "Wilton Pereira Sampaio",
             "timezone": "UTC",
             "date": "2022-11-21T16:00:00+00:00",
             "timestamp": 1669046400,
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 855735,
-            "referee": null,
+            "referee": "Raphael Claus",
             "timezone": "UTC",
             "date": "2022-11-21T13:00:00+00:00",
             "timestamp": 1669035600,
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 855737,
-            "referee": null,
+            "referee": "S. Vinčić",
             "timezone": "UTC",
             "date": "2022-11-22T10:00:00+00:00",
             "timestamp": 1669111200,
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 855738,
-            "referee": null,
+            "referee": "C. Ramos",
             "timezone": "UTC",
             "date": "2022-11-22T13:00:00+00:00",
             "timestamp": 1669122000,
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 855739,
-            "referee": null,
+            "referee": "C. Beath",
             "timezone": "UTC",
             "date": "2022-11-22T16:00:00+00:00",
             "timestamp": 1669132800,
@@ -886,7 +886,7 @@
     {
         "fixture": {
             "id": 866681,
-            "referee": null,
+            "referee": "Abdulrahman Al Jassim",
             "timezone": "UTC",
             "date": "2022-11-21T19:00:00+00:00",
             "timestamp": 1669057200,
@@ -954,7 +954,7 @@
     {
         "fixture": {
             "id": 871850,
-            "referee": null,
+            "referee": "V. Gomes",
             "timezone": "UTC",
             "date": "2022-11-22T19:00:00+00:00",
             "timestamp": 1669143600,
