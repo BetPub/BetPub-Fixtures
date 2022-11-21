@@ -7,7 +7,7 @@
             "date": "2022-11-21T16:00:00+00:00",
             "timestamp": 1669046400,
             "periods": {
-                "first": null,
+                "first": 1669046400,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -45,13 +45,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
