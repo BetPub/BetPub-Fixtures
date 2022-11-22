@@ -220,9 +220,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 46
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -239,18 +239,18 @@
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": true
+                "winner": false
             },
             "away": {
                 "id": 23,
                 "name": "Saudi Arabia",
                 "logo": "https://media.api-sports.io/football/teams/23.png",
-                "winner": false
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -258,8 +258,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 855738,
-            "referee": "C. Ramos",
+            "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
             "timezone": "UTC",
             "date": "2022-11-22T13:00:00+00:00",
             "timestamp": 1669122000,
@@ -285,7 +285,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
