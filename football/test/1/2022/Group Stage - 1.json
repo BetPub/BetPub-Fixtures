@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 855740,
-            "referee": null,
+            "referee": "F. Rapallini",
             "timezone": "UTC",
             "date": "2022-11-23T10:00:00+00:00",
             "timestamp": 1669197600,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 855741,
-            "referee": null,
+            "referee": "Ivan Cisneros",
             "timezone": "UTC",
             "date": "2022-11-23T13:00:00+00:00",
             "timestamp": 1669208400,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 855742,
-            "referee": null,
+            "referee": "J. Sikazwe",
             "timezone": "UTC",
             "date": "2022-11-23T19:00:00+00:00",
             "timestamp": 1669230000,
@@ -1022,7 +1022,7 @@
     {
         "fixture": {
             "id": 871851,
-            "referee": null,
+            "referee": "Mohamed Abdulla Hassan Mohd",
             "timezone": "UTC",
             "date": "2022-11-23T16:00:00+00:00",
             "timestamp": 1669219200,
