@@ -347,7 +347,7 @@
             "date": "2022-11-22T16:00:00+00:00",
             "timestamp": 1669132800,
             "periods": {
-                "first": null,
+                "first": 1669132800,
                 "second": null
             },
             "venue": {
@@ -356,9 +356,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 14
             }
         },
         "league": {
@@ -385,13 +385,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
