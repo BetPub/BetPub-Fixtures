@@ -222,7 +222,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 7
+                "elapsed": 12
             }
         },
         "league": {
@@ -239,22 +239,22 @@
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 23,
                 "name": "Saudi Arabia",
                 "logo": "https://media.api-sports.io/football/teams/23.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
