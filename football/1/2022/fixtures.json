@@ -494,7 +494,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 75
+                "elapsed": 80
             }
         },
         "league": {
@@ -511,18 +511,18 @@
                 "id": 25,
                 "name": "Germany",
                 "logo": "https://media.api-sports.io/football/teams/25.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 12,
                 "name": "Japan",
                 "logo": "https://media.api-sports.io/football/teams/12.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
