@@ -484,7 +484,7 @@
             "timestamp": 1669208400,
             "periods": {
                 "first": 1669208400,
-                "second": null
+                "second": 1669212000
             },
             "venue": {
                 "id": null,
@@ -492,9 +492,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 35
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 75
             }
         },
         "league": {
