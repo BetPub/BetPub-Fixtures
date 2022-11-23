@@ -551,7 +551,7 @@
             "date": "2022-11-23T19:00:00+00:00",
             "timestamp": 1669230000,
             "periods": {
-                "first": null,
+                "first": 1669230000,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -579,23 +579,23 @@
                 "id": 1,
                 "name": "Belgium",
                 "logo": "https://media.api-sports.io/football/teams/1.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 5529,
                 "name": "Canada",
                 "logo": "https://media.api-sports.io/football/teams/5529.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
