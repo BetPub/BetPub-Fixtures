@@ -562,7 +562,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 41
+                "elapsed": 45
             }
         },
         "league": {
@@ -579,22 +579,22 @@
                 "id": 1,
                 "name": "Belgium",
                 "logo": "https://media.api-sports.io/football/teams/1.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 5529,
                 "name": "Canada",
                 "logo": "https://media.api-sports.io/football/teams/5529.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
