@@ -424,9 +424,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 79
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -462,8 +462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 855741,
-            "referee": "Ivan Cisneros",
+            "referee": "Ivan Arcides Barton Cisneros, El Salvador",
             "timezone": "UTC",
             "date": "2022-11-23T13:00:00+00:00",
             "timestamp": 1669208400,
@@ -489,7 +489,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Not Started",
