@@ -2932,7 +2932,7 @@
             "timestamp": 1669219200,
             "periods": {
                 "first": 1669219200,
-                "second": null
+                "second": 1669222800
             },
             "venue": {
                 "id": null,
@@ -2940,9 +2940,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 43
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 79
             }
         },
         "league": {
@@ -2969,7 +2969,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 5,
             "away": 0
         },
         "score": {
