@@ -415,7 +415,7 @@
             "date": "2022-11-23T10:00:00+00:00",
             "timestamp": 1669197600,
             "periods": {
-                "first": null,
+                "first": 1669197600,
                 "second": null
             },
             "venue": {
@@ -424,9 +424,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 32
             }
         },
         "league": {
@@ -453,13 +453,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
