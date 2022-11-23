@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 855742,
-            "referee": "J. Sikazwe",
+            "referee": "Janny Sikazwe, Zambia",
             "timezone": "UTC",
             "date": "2022-11-23T19:00:00+00:00",
             "timestamp": 1669230000,
@@ -556,8 +556,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmad bin Ali Stadium",
-                "city": "Al-Rayyan"
+                "name": "Ahmed bin Ali Stadium",
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
@@ -1036,9 +1036,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 84
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -1065,7 +1065,7 @@
             }
         },
         "goals": {
-            "home": 5,
+            "home": 7,
             "away": 0
         },
         "score": {
@@ -1074,8 +1074,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 7,
+                "away": 0
             },
             "extratime": {
                 "home": null,
