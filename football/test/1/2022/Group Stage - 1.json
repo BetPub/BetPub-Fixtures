@@ -483,7 +483,7 @@
             "date": "2022-11-23T13:00:00+00:00",
             "timestamp": 1669208400,
             "periods": {
-                "first": null,
+                "first": 1669208400,
                 "second": null
             },
             "venue": {
@@ -492,9 +492,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 35
             }
         },
         "league": {
@@ -511,23 +511,23 @@
                 "id": 25,
                 "name": "Germany",
                 "logo": "https://media.api-sports.io/football/teams/25.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 12,
                 "name": "Japan",
                 "logo": "https://media.api-sports.io/football/teams/12.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
