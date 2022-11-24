@@ -688,7 +688,7 @@
             "timestamp": 1669294800,
             "periods": {
                 "first": 1669294800,
-                "second": null
+                "second": 1669298400
             },
             "venue": {
                 "id": null,
@@ -696,9 +696,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -734,8 +734,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
