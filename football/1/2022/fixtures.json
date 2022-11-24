@@ -824,7 +824,7 @@
             "timestamp": 1669316400,
             "periods": {
                 "first": 1669316400,
-                "second": null
+                "second": 1669320000
             },
             "venue": {
                 "id": null,
@@ -832,9 +832,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 9
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
