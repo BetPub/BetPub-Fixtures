@@ -832,9 +832,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 47
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -851,17 +851,17 @@
                 "id": 6,
                 "name": "Brazil",
                 "logo": "https://media.api-sports.io/football/teams/6.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 14,
                 "name": "Serbia",
                 "logo": "https://media.api-sports.io/football/teams/14.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -870,8 +870,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
