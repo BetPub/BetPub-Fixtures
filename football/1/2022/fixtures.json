@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 855743,
-            "referee": "Facundo Tello, Argentina",
+            "referee": "F. Tello",
             "timezone": "UTC",
             "date": "2022-11-24T10:00:00+00:00",
             "timestamp": 1669284000,
@@ -682,7 +682,7 @@
     {
         "fixture": {
             "id": 855744,
-            "referee": "Clement Turpin, France",
+            "referee": "C. Turpin",
             "timezone": "UTC",
             "date": "2022-11-24T13:00:00+00:00",
             "timestamp": 1669294800,
@@ -693,7 +693,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Al Rayyan"
+                "city": "Ar-Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -750,7 +750,7 @@
     {
         "fixture": {
             "id": 855745,
-            "referee": "Ismail Elfath, USA",
+            "referee": "I. Elfath",
             "timezone": "UTC",
             "date": "2022-11-24T16:00:00+00:00",
             "timestamp": 1669305600,
@@ -761,7 +761,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Ras Abu Aboud"
+                "city": "Doha"
             },
             "status": {
                 "long": "Match Finished",
@@ -818,7 +818,7 @@
     {
         "fixture": {
             "id": 855746,
-            "referee": "Alireza Faghani, Iran",
+            "referee": "A. Faghani",
             "timezone": "UTC",
             "date": "2022-11-24T19:00:00+00:00",
             "timestamp": 1669316400,
@@ -1158,7 +1158,7 @@
     {
         "fixture": {
             "id": 855751,
-            "referee": null,
+            "referee": "S. Marciniak",
             "timezone": "UTC",
             "date": "2022-11-26T16:00:00+00:00",
             "timestamp": 1669478400,
@@ -1226,7 +1226,7 @@
     {
         "fixture": {
             "id": 855752,
-            "referee": null,
+            "referee": "D. Orsato",
             "timezone": "UTC",
             "date": "2022-11-26T19:00:00+00:00",
             "timestamp": 1669489200,
