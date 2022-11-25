@@ -1028,7 +1028,7 @@
             "timestamp": 1669402800,
             "periods": {
                 "first": 1669402800,
-                "second": null
+                "second": 1669406400
             },
             "venue": {
                 "id": null,
@@ -1036,9 +1036,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 33
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 72
             }
         },
         "league": {
