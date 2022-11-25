@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 855747,
-            "referee": "Antonio Mateu",
+            "referee": "Antonio Mateu, Spain",
             "timezone": "UTC",
             "date": "2022-11-25T13:00:00+00:00",
             "timestamp": 1669381200,
@@ -12,8 +12,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Al Thumama Stadium",
-                "city": "Doha"
+                "name": "Al-Thumama Stadium",
+                "city": "Al-Thumama"
             },
             "status": {
                 "long": "Not Started",
@@ -900,9 +900,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 65
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -919,18 +919,18 @@
                 "id": 767,
                 "name": "Wales",
                 "logo": "https://media.api-sports.io/football/teams/767.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 22,
                 "name": "Iran",
                 "logo": "https://media.api-sports.io/football/teams/22.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -938,8 +938,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
