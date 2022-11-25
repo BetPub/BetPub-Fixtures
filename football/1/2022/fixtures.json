@@ -960,7 +960,7 @@
             "timestamp": 1669392000,
             "periods": {
                 "first": 1669392000,
-                "second": null
+                "second": 1669395600
             },
             "venue": {
                 "id": null,
@@ -968,9 +968,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 30
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -987,18 +987,18 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 2382,
                 "name": "Ecuador",
                 "logo": "https://media.api-sports.io/football/teams/2382.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
