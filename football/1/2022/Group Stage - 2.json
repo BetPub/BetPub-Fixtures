@@ -960,7 +960,7 @@
             "timestamp": 1669456800,
             "periods": {
                 "first": 1669456800,
-                "second": null
+                "second": 1669460400
             },
             "venue": {
                 "id": null,
@@ -968,9 +968,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 87
             }
         },
         "league": {
