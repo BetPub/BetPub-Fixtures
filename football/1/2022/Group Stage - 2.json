@@ -274,23 +274,23 @@
     {
         "fixture": {
             "id": 855751,
-            "referee": "S. Marciniak",
+            "referee": "Szymon Marciniak, Poland",
             "timezone": "UTC",
             "date": "2022-11-26T16:00:00+00:00",
             "timestamp": 1669478400,
             "periods": {
                 "first": 1669478400,
-                "second": null
+                "second": 1669482000
             },
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -307,18 +307,18 @@
                 "id": 2,
                 "name": "France",
                 "logo": "https://media.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 21,
                 "name": "Denmark",
                 "logo": "https://media.api-sports.io/football/teams/21.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 2,
+            "away": 1
         },
         "score": {
             "halftime": {
