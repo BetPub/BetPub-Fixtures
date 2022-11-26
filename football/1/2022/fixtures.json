@@ -1294,7 +1294,7 @@
     {
         "fixture": {
             "id": 855753,
-            "referee": null,
+            "referee": "C. Ramos",
             "timezone": "UTC",
             "date": "2022-11-27T13:00:00+00:00",
             "timestamp": 1669554000,
@@ -1362,7 +1362,7 @@
     {
         "fixture": {
             "id": 855754,
-            "referee": null,
+            "referee": "A. Matonte",
             "timezone": "UTC",
             "date": "2022-11-27T16:00:00+00:00",
             "timestamp": 1669564800,
@@ -1430,7 +1430,7 @@
     {
         "fixture": {
             "id": 855755,
-            "referee": null,
+            "referee": "D. Makkelie",
             "timezone": "UTC",
             "date": "2022-11-27T19:00:00+00:00",
             "timestamp": 1669575600,
@@ -2722,7 +2722,7 @@
     {
         "fixture": {
             "id": 866682,
-            "referee": "Mario Escobar, Guatemala",
+            "referee": "M. Escobar",
             "timezone": "UTC",
             "date": "2022-11-25T10:00:00+00:00",
             "timestamp": 1669370400,
@@ -2732,8 +2732,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmed bin Ali Stadium",
-                "city": "Al Rayyan"
+                "name": "Ahmad bin Ali Stadium",
+                "city": "Al-Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -3062,7 +3062,7 @@
     {
         "fixture": {
             "id": 871853,
-            "referee": null,
+            "referee": "M. Oliver",
             "timezone": "UTC",
             "date": "2022-11-27T10:00:00+00:00",
             "timestamp": 1669543200,
