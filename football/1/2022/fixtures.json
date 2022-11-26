@@ -1096,7 +1096,7 @@
             "timestamp": 1669467600,
             "periods": {
                 "first": 1669467600,
-                "second": null
+                "second": 1669471200
             },
             "venue": {
                 "id": null,
@@ -1104,9 +1104,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -1133,7 +1133,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -1142,8 +1142,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -1163,7 +1163,7 @@
             "date": "2022-11-26T16:00:00+00:00",
             "timestamp": 1669478400,
             "periods": {
-                "first": null,
+                "first": 1669478400,
                 "second": null
             },
             "venue": {
@@ -1172,9 +1172,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -1201,13 +1201,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
