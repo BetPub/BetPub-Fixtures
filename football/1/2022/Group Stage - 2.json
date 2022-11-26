@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 855750,
-            "referee": "Wilton Pereira Sampaio",
+            "referee": "Wilton Pereira Sampaio, Brazil",
             "timezone": "UTC",
             "date": "2022-11-26T13:00:00+00:00",
             "timestamp": 1669467600,
@@ -217,7 +217,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
@@ -968,9 +968,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 87
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -1006,8 +1006,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "extratime": {
                 "home": null,
