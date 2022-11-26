@@ -212,7 +212,7 @@
             "timestamp": 1669467600,
             "periods": {
                 "first": 1669467600,
-                "second": null
+                "second": 1669471200
             },
             "venue": {
                 "id": null,
@@ -220,9 +220,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -249,7 +249,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -258,8 +258,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -274,23 +274,23 @@
     {
         "fixture": {
             "id": 855751,
-            "referee": "S. Marciniak",
+            "referee": "Szymon Marciniak, Poland",
             "timezone": "UTC",
             "date": "2022-11-26T16:00:00+00:00",
             "timestamp": 1669478400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1669478400,
+                "second": 1669482000
             },
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -307,23 +307,23 @@
                 "id": 2,
                 "name": "France",
                 "logo": "https://media.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 21,
                 "name": "Denmark",
                 "logo": "https://media.api-sports.io/football/teams/21.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
