@@ -959,7 +959,7 @@
             "date": "2022-11-26T10:00:00+00:00",
             "timestamp": 1669456800,
             "periods": {
-                "first": null,
+                "first": 1669456800,
                 "second": null
             },
             "venue": {
@@ -968,9 +968,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -987,23 +987,23 @@
                 "id": 28,
                 "name": "Tunisia",
                 "logo": "https://media.api-sports.io/football/teams/28.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 20,
                 "name": "Australia",
                 "logo": "https://media.api-sports.io/football/teams/20.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
