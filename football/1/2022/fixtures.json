@@ -1095,7 +1095,7 @@
             "date": "2022-11-26T13:00:00+00:00",
             "timestamp": 1669467600,
             "periods": {
-                "first": null,
+                "first": 1669467600,
                 "second": null
             },
             "venue": {
@@ -1104,9 +1104,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -1123,23 +1123,23 @@
                 "id": 24,
                 "name": "Poland",
                 "logo": "https://media.api-sports.io/football/teams/24.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 23,
                 "name": "Saudi Arabia",
                 "logo": "https://media.api-sports.io/football/teams/23.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
