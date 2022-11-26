@@ -348,7 +348,7 @@
             "timestamp": 1669489200,
             "periods": {
                 "first": 1669489200,
-                "second": null
+                "second": 1669492800
             },
             "venue": {
                 "id": null,
@@ -356,9 +356,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -375,17 +375,17 @@
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 16,
                 "name": "Mexico",
                 "logo": "https://media.api-sports.io/football/teams/16.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -394,8 +394,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
