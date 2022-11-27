@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 855734,
-            "referee": "Wilton Pereira Sampaio",
+            "referee": "Wilton Pereira Sampaio, Brazil",
             "timezone": "UTC",
             "date": "2022-11-21T16:00:00+00:00",
             "timestamp": 1669046400,
@@ -12,8 +12,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Al Thumama Stadium",
-                "city": "Doha"
+                "name": "Al-Thumama Stadium",
+                "city": "Al-Thumama"
             },
             "status": {
                 "long": "Match Finished",
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 855735,
-            "referee": "Raphael Claus",
+            "referee": "Raphael Claus, Brazil",
             "timezone": "UTC",
             "date": "2022-11-21T13:00:00+00:00",
             "timestamp": 1669035600,
@@ -81,7 +81,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Match Finished",
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 855736,
-            "referee": "D. Orsato",
+            "referee": "Daniele Orsato, Italy",
             "timezone": "UTC",
             "date": "2022-11-20T16:00:00+00:00",
             "timestamp": 1668960000,
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 855737,
-            "referee": "S. Vinčić",
+            "referee": "Slavko Vincic, Slovenia",
             "timezone": "UTC",
             "date": "2022-11-22T10:00:00+00:00",
             "timestamp": 1669111200,
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 855738,
-            "referee": "C. Ramos",
+            "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
             "timezone": "UTC",
             "date": "2022-11-22T13:00:00+00:00",
             "timestamp": 1669122000,
@@ -285,7 +285,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 855739,
-            "referee": "C. Beath",
+            "referee": "Chris Beath, Australia",
             "timezone": "UTC",
             "date": "2022-11-22T16:00:00+00:00",
             "timestamp": 1669132800,
@@ -353,7 +353,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
                 "long": "Match Finished",
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 855740,
-            "referee": "F. Rapallini",
+            "referee": "Fernando Rapallini, Argentina",
             "timezone": "UTC",
             "date": "2022-11-23T10:00:00+00:00",
             "timestamp": 1669197600,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 855741,
-            "referee": "Ivan Cisneros",
+            "referee": "Ivan Arcides Barton Cisneros, El Salvador",
             "timezone": "UTC",
             "date": "2022-11-23T13:00:00+00:00",
             "timestamp": 1669208400,
@@ -489,7 +489,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Match Finished",
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 855742,
-            "referee": "J. Sikazwe",
+            "referee": "Janny Sikazwe, Zambia",
             "timezone": "UTC",
             "date": "2022-11-23T19:00:00+00:00",
             "timestamp": 1669230000,
@@ -556,8 +556,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmad bin Ali Stadium",
-                "city": "Al-Rayyan"
+                "name": "Ahmed bin Ali Stadium",
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 855743,
-            "referee": "F. Tello",
+            "referee": "Facundo Tello, Argentina",
             "timezone": "UTC",
             "date": "2022-11-24T10:00:00+00:00",
             "timestamp": 1669284000,
@@ -682,7 +682,7 @@
     {
         "fixture": {
             "id": 855744,
-            "referee": "C. Turpin",
+            "referee": "Clement Turpin, France",
             "timezone": "UTC",
             "date": "2022-11-24T13:00:00+00:00",
             "timestamp": 1669294800,
@@ -693,7 +693,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -750,7 +750,7 @@
     {
         "fixture": {
             "id": 855745,
-            "referee": "I. Elfath",
+            "referee": "Ismail Elfath, USA",
             "timezone": "UTC",
             "date": "2022-11-24T16:00:00+00:00",
             "timestamp": 1669305600,
@@ -761,7 +761,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
                 "long": "Match Finished",
@@ -818,7 +818,7 @@
     {
         "fixture": {
             "id": 855746,
-            "referee": "A. Faghani",
+            "referee": "Alireza Faghani, Iran",
             "timezone": "UTC",
             "date": "2022-11-24T19:00:00+00:00",
             "timestamp": 1669316400,
@@ -886,7 +886,7 @@
     {
         "fixture": {
             "id": 855747,
-            "referee": "Antonio Mateu",
+            "referee": "Antonio Mateu, Spain",
             "timezone": "UTC",
             "date": "2022-11-25T13:00:00+00:00",
             "timestamp": 1669381200,
@@ -896,8 +896,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Al Thumama Stadium",
-                "city": "Doha"
+                "name": "Al-Thumama Stadium",
+                "city": "Al-Thumama"
             },
             "status": {
                 "long": "Match Finished",
@@ -954,7 +954,7 @@
     {
         "fixture": {
             "id": 855748,
-            "referee": "M. Ghorbal",
+            "referee": "Mustapha Ghorbal, Algeria",
             "timezone": "UTC",
             "date": "2022-11-25T16:00:00+00:00",
             "timestamp": 1669392000,
@@ -965,7 +965,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Match Finished",
@@ -1022,7 +1022,7 @@
     {
         "fixture": {
             "id": 855749,
-            "referee": "J. Valenzuela",
+            "referee": "Jesus Valenzuela, Venezuela",
             "timezone": "UTC",
             "date": "2022-11-25T19:00:00+00:00",
             "timestamp": 1669402800,
@@ -2654,7 +2654,7 @@
     {
         "fixture": {
             "id": 866681,
-            "referee": "Abdulrahman Al Jassim",
+            "referee": "Ibrahim Al-Jassim Abdulrahman, Qatar",
             "timezone": "UTC",
             "date": "2022-11-21T19:00:00+00:00",
             "timestamp": 1669057200,
@@ -2664,8 +2664,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmad bin Ali Stadium",
-                "city": "Al-Rayyan"
+                "name": "Ahmed bin Ali Stadium",
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -2722,7 +2722,7 @@
     {
         "fixture": {
             "id": 866682,
-            "referee": "M. Escobar",
+            "referee": "Mario Escobar, Guatemala",
             "timezone": "UTC",
             "date": "2022-11-25T10:00:00+00:00",
             "timestamp": 1669370400,
@@ -2732,8 +2732,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmad bin Ali Stadium",
-                "city": "Al-Rayyan"
+                "name": "Ahmed bin Ali Stadium",
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -2858,7 +2858,7 @@
     {
         "fixture": {
             "id": 871850,
-            "referee": "V. Gomes",
+            "referee": "Victor Gomes, South Africa",
             "timezone": "UTC",
             "date": "2022-11-22T19:00:00+00:00",
             "timestamp": 1669143600,
@@ -2926,7 +2926,7 @@
     {
         "fixture": {
             "id": 871851,
-            "referee": "Mohamed Abdulla Hassan Mohd",
+            "referee": "Mohammed Abdulla Hassan Mohamed, United Arab Emirates",
             "timezone": "UTC",
             "date": "2022-11-23T16:00:00+00:00",
             "timestamp": 1669219200,
@@ -2936,8 +2936,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Al Thumama Stadium",
-                "city": "Doha"
+                "name": "Al-Thumama Stadium",
+                "city": "Al-Thumama"
             },
             "status": {
                 "long": "Match Finished",
@@ -2994,7 +2994,7 @@
     {
         "fixture": {
             "id": 871852,
-            "referee": "D. Siebert",
+            "referee": "Daniel Siebert, Germany",
             "timezone": "UTC",
             "date": "2022-11-26T10:00:00+00:00",
             "timestamp": 1669456800,
