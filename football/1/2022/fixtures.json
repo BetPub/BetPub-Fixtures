@@ -1367,7 +1367,7 @@
             "date": "2022-11-27T16:00:00+00:00",
             "timestamp": 1669564800,
             "periods": {
-                "first": null,
+                "first": 1669564800,
                 "second": null
             },
             "venue": {
@@ -1376,9 +1376,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 12
             }
         },
         "league": {
@@ -1395,23 +1395,23 @@
                 "id": 3,
                 "name": "Croatia",
                 "logo": "https://media.api-sports.io/football/teams/3.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 5529,
                 "name": "Canada",
                 "logo": "https://media.api-sports.io/football/teams/5529.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
