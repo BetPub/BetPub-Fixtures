@@ -492,9 +492,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 53
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -521,7 +521,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 4,
             "away": 1
         },
         "score": {
@@ -530,8 +530,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 855755,
-            "referee": "D. Makkelie",
+            "referee": "Danny Desmond Makkelie, Netherlands",
             "timezone": "UTC",
             "date": "2022-11-27T19:00:00+00:00",
             "timestamp": 1669575600,
