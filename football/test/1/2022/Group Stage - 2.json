@@ -424,9 +424,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 50
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -443,18 +443,18 @@
                 "id": 1,
                 "name": "Belgium",
                 "logo": "https://media.api-sports.io/football/teams/1.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 31,
                 "name": "Morocco",
                 "logo": "https://media.api-sports.io/football/teams/31.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -462,8 +462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 855754,
-            "referee": "A. Matonte",
+            "referee": "Andres Matonte, Uruguay",
             "timezone": "UTC",
             "date": "2022-11-27T16:00:00+00:00",
             "timestamp": 1669564800,
@@ -489,7 +489,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Not Started",
