@@ -1300,7 +1300,7 @@
             "timestamp": 1669554000,
             "periods": {
                 "first": 1669554000,
-                "second": null
+                "second": 1669557600
             },
             "venue": {
                 "id": null,
@@ -1308,9 +1308,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 14
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50
             }
         },
         "league": {
