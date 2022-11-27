@@ -1028,7 +1028,7 @@
             "timestamp": 1669543200,
             "periods": {
                 "first": 1669543200,
-                "second": null
+                "second": 1669546800
             },
             "venue": {
                 "id": null,
@@ -1036,9 +1036,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 6
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50
             }
         },
         "league": {
