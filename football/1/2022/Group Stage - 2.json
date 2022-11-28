@@ -756,7 +756,7 @@
             "timestamp": 1669651200,
             "periods": {
                 "first": 1669651200,
-                "second": null
+                "second": 1669654800
             },
             "venue": {
                 "id": null,
@@ -764,9 +764,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 41
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 85
             }
         },
         "league": {
@@ -783,17 +783,17 @@
                 "id": 6,
                 "name": "Brazil",
                 "logo": "https://media.api-sports.io/football/teams/6.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 15,
                 "name": "Switzerland",
                 "logo": "https://media.api-sports.io/football/teams/15.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
