@@ -823,7 +823,7 @@
             "date": "2022-11-28T19:00:00+00:00",
             "timestamp": 1669662000,
             "periods": {
-                "first": null,
+                "first": 1669662000,
                 "second": null
             },
             "venue": {
@@ -832,9 +832,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 44
             }
         },
         "league": {
@@ -861,13 +861,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
