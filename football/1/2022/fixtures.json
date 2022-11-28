@@ -1708,7 +1708,7 @@
             "timestamp": 1669662000,
             "periods": {
                 "first": 1669662000,
-                "second": null
+                "second": 1669665600
             },
             "venue": {
                 "id": null,
@@ -1716,9 +1716,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 44
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 82
             }
         },
         "league": {
@@ -1735,17 +1735,17 @@
                 "id": 27,
                 "name": "Portugal",
                 "logo": "https://media.api-sports.io/football/teams/27.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 7,
                 "name": "Uruguay",
                 "logo": "https://media.api-sports.io/football/teams/7.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
