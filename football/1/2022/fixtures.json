@@ -1640,7 +1640,7 @@
             "timestamp": 1669651200,
             "periods": {
                 "first": 1669651200,
-                "second": null
+                "second": 1669654800
             },
             "venue": {
                 "id": null,
@@ -1648,9 +1648,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 41
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 80
             }
         },
         "league": {
