@@ -1582,7 +1582,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 33
+                "elapsed": 38
             }
         },
         "league": {
@@ -1610,12 +1610,12 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 1
+                "away": 2
             },
             "fulltime": {
                 "home": null,
