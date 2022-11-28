@@ -687,7 +687,7 @@
             "date": "2022-11-28T13:00:00+00:00",
             "timestamp": 1669640400,
             "periods": {
-                "first": null,
+                "first": 1669640400,
                 "second": null
             },
             "venue": {
@@ -696,9 +696,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 33
             }
         },
         "league": {
@@ -715,23 +715,23 @@
                 "id": 17,
                 "name": "South Korea",
                 "logo": "https://media.api-sports.io/football/teams/17.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 1504,
                 "name": "Ghana",
                 "logo": "https://media.api-sports.io/football/teams/1504.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
