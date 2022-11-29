@@ -8,7 +8,7 @@
             "timestamp": 1669734000,
             "periods": {
                 "first": 1669734000,
-                "second": null
+                "second": 1669737600
             },
             "venue": {
                 "id": null,
@@ -16,9 +16,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 3
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 46
             }
         },
         "league": {
@@ -35,22 +35,22 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 1569,
                 "name": "Qatar",
                 "logo": "https://media.api-sports.io/football/teams/1569.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -84,9 +84,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 3
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -103,23 +103,23 @@
                 "id": 2382,
                 "name": "Ecuador",
                 "logo": "https://media.api-sports.io/football/teams/2382.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 13,
                 "name": "Senegal",
                 "logo": "https://media.api-sports.io/football/teams/13.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
