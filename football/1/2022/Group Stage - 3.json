@@ -144,7 +144,7 @@
             "timestamp": 1669748400,
             "periods": {
                 "first": 1669748400,
-                "second": null
+                "second": 1669752000
             },
             "venue": {
                 "id": null,
@@ -152,9 +152,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -190,8 +190,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -900,9 +900,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 48
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -919,18 +919,18 @@
                 "id": 767,
                 "name": "Wales",
                 "logo": "https://media.api-sports.io/football/teams/767.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 10,
                 "name": "England",
                 "logo": "https://media.api-sports.io/football/teams/10.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -938,8 +938,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 3
             },
             "extratime": {
                 "home": null,
