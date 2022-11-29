@@ -16,9 +16,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 46
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -45,7 +45,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -54,8 +54,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -76,7 +76,7 @@
             "timestamp": 1669734000,
             "periods": {
                 "first": 1669734000,
-                "second": null
+                "second": 1669737600
             },
             "venue": {
                 "id": null,
@@ -84,9 +84,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -113,8 +113,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -122,8 +122,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
