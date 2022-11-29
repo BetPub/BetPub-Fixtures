@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 855766,
-            "referee": null,
+            "referee": "A. Taylor",
             "timezone": "UTC",
             "date": "2022-12-01T15:00:00+00:00",
             "timestamp": 1669906800,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 855767,
-            "referee": null,
+            "referee": "Raphael Claus",
             "timezone": "UTC",
             "date": "2022-12-01T15:00:00+00:00",
             "timestamp": 1669906800,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 855768,
-            "referee": null,
+            "referee": "V. Gomes",
             "timezone": "UTC",
             "date": "2022-12-01T19:00:00+00:00",
             "timestamp": 1669921200,
@@ -1022,7 +1022,7 @@
     {
         "fixture": {
             "id": 871855,
-            "referee": null,
+            "referee": "S. Frappart",
             "timezone": "UTC",
             "date": "2022-12-01T19:00:00+00:00",
             "timestamp": 1669921200,
