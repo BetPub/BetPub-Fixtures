@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 855763,
-            "referee": "M. Conger",
+            "referee": "Matt Conger, New Zealand",
             "timezone": "UTC",
             "date": "2022-11-30T15:00:00+00:00",
             "timestamp": 1669820400,
@@ -217,7 +217,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
@@ -954,7 +954,7 @@
     {
         "fixture": {
             "id": 871854,
-            "referee": "M. Ghorbal",
+            "referee": "Mustapha Ghorbal, Algeria",
             "timezone": "UTC",
             "date": "2022-11-30T15:00:00+00:00",
             "timestamp": 1669820400,
