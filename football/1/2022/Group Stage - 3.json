@@ -280,7 +280,7 @@
             "timestamp": 1669834800,
             "periods": {
                 "first": 1669834800,
-                "second": null
+                "second": 1669838400
             },
             "venue": {
                 "id": null,
@@ -288,9 +288,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 31
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 73
             }
         },
         "league": {
@@ -307,18 +307,18 @@
                 "id": 24,
                 "name": "Poland",
                 "logo": "https://media.api-sports.io/football/teams/24.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -348,7 +348,7 @@
             "timestamp": 1669834800,
             "periods": {
                 "first": 1669834800,
-                "second": null
+                "second": 1669838400
             },
             "venue": {
                 "id": null,
@@ -356,9 +356,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 31
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 70
             }
         },
         "league": {
@@ -375,18 +375,18 @@
                 "id": 23,
                 "name": "Saudi Arabia",
                 "logo": "https://media.api-sports.io/football/teams/23.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 16,
                 "name": "Mexico",
                 "logo": "https://media.api-sports.io/football/teams/16.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
