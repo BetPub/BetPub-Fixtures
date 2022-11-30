@@ -1980,7 +1980,7 @@
             "timestamp": 1669820400,
             "periods": {
                 "first": 1669820400,
-                "second": null
+                "second": 1669824000
             },
             "venue": {
                 "id": null,
@@ -1988,9 +1988,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 27
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 65
             }
         },
         "league": {
@@ -2007,17 +2007,17 @@
                 "id": 28,
                 "name": "Tunisia",
                 "logo": "https://media.api-sports.io/football/teams/28.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2,
                 "name": "France",
                 "logo": "https://media.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -3136,7 +3136,7 @@
             "timestamp": 1669820400,
             "periods": {
                 "first": 1669820400,
-                "second": null
+                "second": 1669824000
             },
             "venue": {
                 "id": null,
@@ -3144,9 +3144,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 27
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 65
             }
         },
         "league": {
@@ -3163,17 +3163,17 @@
                 "id": 20,
                 "name": "Australia",
                 "logo": "https://media.api-sports.io/football/teams/20.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 21,
                 "name": "Denmark",
                 "logo": "https://media.api-sports.io/football/teams/21.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
