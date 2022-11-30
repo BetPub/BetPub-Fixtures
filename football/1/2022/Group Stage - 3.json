@@ -220,9 +220,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 71
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -258,8 +258,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -968,9 +968,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 70
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -1006,8 +1006,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
