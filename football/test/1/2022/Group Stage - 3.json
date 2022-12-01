@@ -551,7 +551,7 @@
             "date": "2022-12-01T19:00:00+00:00",
             "timestamp": 1669921200,
             "periods": {
-                "first": null,
+                "first": 1669921200,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 21
             }
         },
         "league": {
@@ -579,23 +579,23 @@
                 "id": 12,
                 "name": "Japan",
                 "logo": "https://media.api-sports.io/football/teams/12.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 9,
                 "name": "Spain",
                 "logo": "https://media.api-sports.io/football/teams/9.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -1027,7 +1027,7 @@
             "date": "2022-12-01T19:00:00+00:00",
             "timestamp": 1669921200,
             "periods": {
-                "first": null,
+                "first": 1669921200,
                 "second": null
             },
             "venue": {
@@ -1036,9 +1036,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 21
             }
         },
         "league": {
@@ -1055,23 +1055,23 @@
                 "id": 29,
                 "name": "Costa Rica",
                 "logo": "https://media.api-sports.io/football/teams/29.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 25,
                 "name": "Germany",
                 "logo": "https://media.api-sports.io/football/teams/25.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
