@@ -2320,7 +2320,7 @@
             "timestamp": 1669921200,
             "periods": {
                 "first": 1669921200,
-                "second": null
+                "second": 1669924800
             },
             "venue": {
                 "id": null,
@@ -2328,9 +2328,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 65
             }
         },
         "league": {
@@ -2347,17 +2347,17 @@
                 "id": 12,
                 "name": "Japan",
                 "logo": "https://media.api-sports.io/football/teams/12.png",
-                "winner": false
+                "winner": true
             },
             "away": {
                 "id": 9,
                 "name": "Spain",
                 "logo": "https://media.api-sports.io/football/teams/9.png",
-                "winner": true
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 1
         },
         "score": {
@@ -3204,7 +3204,7 @@
             "timestamp": 1669921200,
             "periods": {
                 "first": 1669921200,
-                "second": null
+                "second": 1669924800
             },
             "venue": {
                 "id": null,
@@ -3212,9 +3212,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 65
             }
         },
         "league": {
@@ -3231,17 +3231,17 @@
                 "id": 29,
                 "name": "Costa Rica",
                 "logo": "https://media.api-sports.io/football/teams/29.png",
-                "winner": false
+                "winner": null
             },
             "away": {
                 "id": 25,
                 "name": "Germany",
                 "logo": "https://media.api-sports.io/football/teams/25.png",
-                "winner": true
+                "winner": null
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         },
         "score": {
