@@ -424,9 +424,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 62
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -462,8 +462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -492,9 +492,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 60
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -530,8 +530,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
