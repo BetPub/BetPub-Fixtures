@@ -2184,7 +2184,7 @@
             "timestamp": 1669906800,
             "periods": {
                 "first": 1669906800,
-                "second": null
+                "second": 1669910400
             },
             "venue": {
                 "id": null,
@@ -2192,9 +2192,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 62
             }
         },
         "league": {
@@ -2252,7 +2252,7 @@
             "timestamp": 1669906800,
             "periods": {
                 "first": 1669906800,
-                "second": null
+                "second": 1669910400
             },
             "venue": {
                 "id": null,
@@ -2260,9 +2260,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 60
             }
         },
         "league": {
@@ -2289,12 +2289,12 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 2
             },
             "fulltime": {
