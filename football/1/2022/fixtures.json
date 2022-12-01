@@ -2178,7 +2178,7 @@
     {
         "fixture": {
             "id": 855766,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-12-01T15:00:00+00:00",
             "timestamp": 1669906800,
@@ -2188,8 +2188,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmad bin Ali Stadium",
-                "city": "Al-Rayyan"
+                "name": "Ahmed bin Ali Stadium",
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
@@ -2246,7 +2246,7 @@
     {
         "fixture": {
             "id": 855767,
-            "referee": "Raphael Claus",
+            "referee": "Raphael Claus, Brazil",
             "timezone": "UTC",
             "date": "2022-12-01T15:00:00+00:00",
             "timestamp": 1669906800,
@@ -2256,8 +2256,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Al Thumama Stadium",
-                "city": "Doha"
+                "name": "Al-Thumama Stadium",
+                "city": "Al-Thumama"
             },
             "status": {
                 "long": "Not Started",
