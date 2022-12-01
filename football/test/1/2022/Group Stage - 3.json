@@ -560,9 +560,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 65
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -598,8 +598,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -1036,9 +1036,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 65
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -1055,18 +1055,18 @@
                 "id": 29,
                 "name": "Costa Rica",
                 "logo": "https://media.api-sports.io/football/teams/29.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 25,
                 "name": "Germany",
                 "logo": "https://media.api-sports.io/football/teams/25.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 4
         },
         "score": {
             "halftime": {
@@ -1074,8 +1074,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 4
             },
             "extratime": {
                 "home": null,
