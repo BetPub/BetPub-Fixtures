@@ -2042,7 +2042,7 @@
     {
         "fixture": {
             "id": 855764,
-            "referee": "D. Makkelie",
+            "referee": "Danny Desmond Makkelie, Netherlands",
             "timezone": "UTC",
             "date": "2022-11-30T19:00:00+00:00",
             "timestamp": 1669834800,
@@ -2053,7 +2053,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
                 "long": "Match Finished",
@@ -2110,7 +2110,7 @@
     {
         "fixture": {
             "id": 855765,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-11-30T19:00:00+00:00",
             "timestamp": 1669834800,
