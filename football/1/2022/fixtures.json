@@ -2382,7 +2382,7 @@
     {
         "fixture": {
             "id": 855769,
-            "referee": "F. Tello",
+            "referee": "Facundo Tello, Argentina",
             "timezone": "UTC",
             "date": "2022-12-02T15:00:00+00:00",
             "timestamp": 1669993200,
@@ -2393,7 +2393,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Not Started",
@@ -2450,7 +2450,7 @@
     {
         "fixture": {
             "id": 855770,
-            "referee": "D. Siebert",
+            "referee": "Daniel Siebert, Germany",
             "timezone": "UTC",
             "date": "2022-12-02T15:00:00+00:00",
             "timestamp": 1669993200,
