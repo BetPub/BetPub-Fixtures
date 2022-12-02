@@ -2396,9 +2396,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 68
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -2415,17 +2415,17 @@
                 "id": 17,
                 "name": "South Korea",
                 "logo": "https://media.api-sports.io/football/teams/17.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 27,
                 "name": "Portugal",
                 "logo": "https://media.api-sports.io/football/teams/27.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         },
         "score": {
@@ -2434,8 +2434,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -2464,9 +2464,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 61
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -2502,8 +2502,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
