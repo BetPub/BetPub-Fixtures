@@ -2518,7 +2518,7 @@
     {
         "fixture": {
             "id": 855771,
-            "referee": "I. Elfath",
+            "referee": "Ismail Elfath, USA",
             "timezone": "UTC",
             "date": "2022-12-02T19:00:00+00:00",
             "timestamp": 1670007600,
@@ -2586,7 +2586,7 @@
     {
         "fixture": {
             "id": 855772,
-            "referee": "F. Rapallini",
+            "referee": "Fernando Rapallini, Argentina",
             "timezone": "UTC",
             "date": "2022-12-02T19:00:00+00:00",
             "timestamp": 1670007600,
@@ -2597,7 +2597,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
                 "long": "Not Started",
