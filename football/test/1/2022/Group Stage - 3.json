@@ -755,7 +755,7 @@
             "date": "2022-12-02T19:00:00+00:00",
             "timestamp": 1670007600,
             "periods": {
-                "first": null,
+                "first": 1670007600,
                 "second": null
             },
             "venue": {
@@ -764,9 +764,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 21
             }
         },
         "league": {
@@ -793,13 +793,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -823,7 +823,7 @@
             "date": "2022-12-02T19:00:00+00:00",
             "timestamp": 1670007600,
             "periods": {
-                "first": null,
+                "first": 1670007600,
                 "second": null
             },
             "venue": {
@@ -832,9 +832,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -851,23 +851,23 @@
                 "id": 14,
                 "name": "Serbia",
                 "logo": "https://media.api-sports.io/football/teams/14.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 15,
                 "name": "Switzerland",
                 "logo": "https://media.api-sports.io/football/teams/15.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
