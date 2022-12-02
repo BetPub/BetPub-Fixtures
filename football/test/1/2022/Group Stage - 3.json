@@ -764,9 +764,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 62
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -783,17 +783,17 @@
                 "id": 1530,
                 "name": "Cameroon",
                 "logo": "https://media.api-sports.io/football/teams/1530.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 6,
                 "name": "Brazil",
                 "logo": "https://media.api-sports.io/football/teams/6.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -802,8 +802,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -832,9 +832,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 62
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -870,8 +870,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 3
             },
             "extratime": {
                 "home": null,
