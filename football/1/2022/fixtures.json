@@ -3676,8 +3676,8 @@
             "id": 977705,
             "referee": null,
             "timezone": "UTC",
-            "date": "2022-12-05T19:00:00+00:00",
-            "timestamp": 1670266800,
+            "date": "2022-12-05T15:00:00+00:00",
+            "timestamp": 1670252400,
             "periods": {
                 "first": null,
                 "second": null
