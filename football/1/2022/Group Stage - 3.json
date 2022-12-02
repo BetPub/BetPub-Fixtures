@@ -756,7 +756,7 @@
             "timestamp": 1670007600,
             "periods": {
                 "first": 1670007600,
-                "second": null
+                "second": 1670011200
             },
             "venue": {
                 "id": null,
@@ -764,9 +764,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -824,7 +824,7 @@
             "timestamp": 1670007600,
             "periods": {
                 "first": 1670007600,
-                "second": null
+                "second": 1670011200
             },
             "venue": {
                 "id": null,
@@ -832,9 +832,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -861,13 +861,13 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 2,
+            "away": 3
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 1
+                "home": 2,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
