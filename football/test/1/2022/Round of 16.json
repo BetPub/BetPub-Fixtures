@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 976533,
-            "referee": "Wilton Pereira Sampaio, Brazil",
+            "referee": "Wilton Pereira Sampaio",
             "timezone": "UTC",
             "date": "2022-12-03T15:00:00+00:00",
             "timestamp": 1670079600,
@@ -13,7 +13,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Doha"
+                "city": "Ar-Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 976534,
-            "referee": null,
+            "referee": "Ivan Cisneros",
             "timezone": "UTC",
             "date": "2022-12-04T19:00:00+00:00",
             "timestamp": 1670180400,
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 976642,
-            "referee": "Szymon Marciniak, Poland",
+            "referee": "S. Marciniak",
             "timezone": "UTC",
             "date": "2022-12-03T19:00:00+00:00",
             "timestamp": 1670094000,
@@ -148,13 +148,13 @@
             },
             "venue": {
                 "id": null,
-                "name": "Ahmed bin Ali Stadium",
-                "city": "Al Rayyan"
+                "name": "Ahmad bin Ali Stadium",
+                "city": "Al-Rayyan"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 61
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -182,7 +182,7 @@
         },
         "goals": {
             "home": 2,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
@@ -190,8 +190,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 976643,
-            "referee": null,
+            "referee": "J. Valenzuela",
             "timezone": "UTC",
             "date": "2022-12-04T15:00:00+00:00",
             "timestamp": 1670166000,
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 977705,
-            "referee": null,
+            "referee": "C. Turpin",
             "timezone": "UTC",
             "date": "2022-12-05T19:00:00+00:00",
             "timestamp": 1670266800,
