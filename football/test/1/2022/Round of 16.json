@@ -7,7 +7,7 @@
             "date": "2022-12-03T15:00:00+00:00",
             "timestamp": 1670079600,
             "periods": {
-                "first": null,
+                "first": 1670079600,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Doha"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 21
             }
         },
         "league": {
@@ -35,23 +35,23 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2384,
                 "name": "USA",
                 "logo": "https://media.api-sports.io/football/teams/2384.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
