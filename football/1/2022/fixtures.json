@@ -3407,7 +3407,7 @@
             "date": "2022-12-03T19:00:00+00:00",
             "timestamp": 1670094000,
             "periods": {
-                "first": null,
+                "first": 1670094000,
                 "second": null
             },
             "venue": {
@@ -3416,9 +3416,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -3445,13 +3445,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
