@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 976533,
-            "referee": "Wilton Pereira Sampaio",
+            "referee": "Wilton Pereira Sampaio, Brazil",
             "timezone": "UTC",
             "date": "2022-12-03T15:00:00+00:00",
             "timestamp": 1670079600,
@@ -13,7 +13,7 @@
             "venue": {
                 "id": null,
                 "name": "Khalifa International Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Doha"
             },
             "status": {
                 "long": "Not Started",
