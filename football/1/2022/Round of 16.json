@@ -212,7 +212,7 @@
             "timestamp": 1670166000,
             "periods": {
                 "first": 1670166000,
-                "second": null
+                "second": 1670169600
             },
             "venue": {
                 "id": null,
@@ -220,9 +220,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 67
             }
         },
         "league": {
@@ -239,22 +239,22 @@
                 "id": 2,
                 "name": "France",
                 "logo": "https://media.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 24,
                 "name": "Poland",
                 "logo": "https://media.api-sports.io/football/teams/24.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
