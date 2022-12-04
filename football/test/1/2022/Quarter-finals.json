@@ -66,5 +66,73 @@
                 "away": null
             }
         }
+    },
+    {
+        "fixture": {
+            "id": 978036,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-10T19:00:00+00:00",
+            "timestamp": 1670698800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Al Bayt Stadium",
+                "city": "Al Khor"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Quarter-finals"
+        },
+        "teams": {
+            "home": {
+                "id": 10,
+                "name": "England",
+                "logo": "https://media.api-sports.io/football/teams/10.png",
+                "winner": null
+            },
+            "away": {
+                "id": 2,
+                "name": "France",
+                "logo": "https://media.api-sports.io/football/teams/2.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
     }
 ]
