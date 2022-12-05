@@ -415,7 +415,7 @@
             "date": "2022-12-05T19:00:00+00:00",
             "timestamp": 1670266800,
             "periods": {
-                "first": null,
+                "first": 1670266800,
                 "second": null
             },
             "venue": {
@@ -424,9 +424,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 25
             }
         },
         "league": {
@@ -443,23 +443,23 @@
                 "id": 6,
                 "name": "Brazil",
                 "logo": "https://media.api-sports.io/football/teams/6.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 17,
                 "name": "South Korea",
                 "logo": "https://media.api-sports.io/football/teams/17.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
