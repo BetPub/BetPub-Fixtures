@@ -288,9 +288,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 113
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120
             }
         },
         "league": {
@@ -307,13 +307,13 @@
                 "id": 12,
                 "name": "Japan",
                 "logo": "https://media.api-sports.io/football/teams/12.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 3,
                 "name": "Croatia",
                 "logo": "https://media.api-sports.io/football/teams/3.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
@@ -334,8 +334,8 @@
                 "away": 0
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 3
             }
         }
     },
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 977705,
-            "referee": "C. Turpin",
+            "referee": "Clement Turpin, France",
             "timezone": "UTC",
             "date": "2022-12-05T19:00:00+00:00",
             "timestamp": 1670266800,
@@ -421,7 +421,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Doha"
+                "city": "Ras Abu Aboud"
             },
             "status": {
                 "long": "Not Started",
