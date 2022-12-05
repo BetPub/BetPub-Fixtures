@@ -3552,9 +3552,9 @@
                 "city": "Al Wakrah"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 67
+                "long": "Extra Time",
+                "short": "ET",
+                "elapsed": 109
             }
         },
         "league": {
@@ -3590,12 +3590,12 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "penalty": {
                 "home": null,
