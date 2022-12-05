@@ -3680,7 +3680,7 @@
             "timestamp": 1670266800,
             "periods": {
                 "first": 1670266800,
-                "second": null
+                "second": 1670270400
             },
             "venue": {
                 "id": null,
@@ -3688,9 +3688,9 @@
                 "city": "Ras Abu Aboud"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
@@ -3717,12 +3717,12 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 4,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 2,
+                "home": 4,
                 "away": 0
             },
             "fulltime": {
