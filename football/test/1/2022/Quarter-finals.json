@@ -202,5 +202,73 @@
                 "away": null
             }
         }
+    },
+    {
+        "fixture": {
+            "id": 978088,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-10T15:00:00+00:00",
+            "timestamp": 1670684400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Al Thumama Stadium",
+                "city": "Doha"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Quarter-finals"
+        },
+        "teams": {
+            "home": {
+                "id": 31,
+                "name": "Morocco",
+                "logo": "https://media.api-sports.io/football/teams/31.png",
+                "winner": null
+            },
+            "away": {
+                "id": 27,
+                "name": "Portugal",
+                "logo": "https://media.api-sports.io/football/teams/27.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
     }
 ]
