@@ -483,7 +483,7 @@
             "date": "2022-12-06T19:00:00+00:00",
             "timestamp": 1670353200,
             "periods": {
-                "first": null,
+                "first": 1670353200,
                 "second": null
             },
             "venue": {
@@ -492,9 +492,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 25
             }
         },
         "league": {
@@ -511,23 +511,23 @@
                 "id": 27,
                 "name": "Portugal",
                 "logo": "https://media.api-sports.io/football/teams/27.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 15,
                 "name": "Switzerland",
                 "logo": "https://media.api-sports.io/football/teams/15.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
