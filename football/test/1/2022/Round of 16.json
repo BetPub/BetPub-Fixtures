@@ -356,9 +356,9 @@
                 "city": "Al Rayyan"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 110
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120
             }
         },
         "league": {
@@ -375,13 +375,13 @@
                 "id": 31,
                 "name": "Morocco",
                 "logo": "https://media.api-sports.io/football/teams/31.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 9,
                 "name": "Spain",
                 "logo": "https://media.api-sports.io/football/teams/9.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
@@ -402,8 +402,8 @@
                 "away": 0
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             }
         }
     },
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 977706,
-            "referee": "C. Ramos",
+            "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
             "timezone": "UTC",
             "date": "2022-12-06T19:00:00+00:00",
             "timestamp": 1670353200,
