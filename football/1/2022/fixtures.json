@@ -3538,7 +3538,7 @@
     {
         "fixture": {
             "id": 977344,
-            "referee": "Ismail Elfath, USA",
+            "referee": "I. Elfath",
             "timezone": "UTC",
             "date": "2022-12-05T15:00:00+00:00",
             "timestamp": 1670252400,
@@ -3606,7 +3606,7 @@
     {
         "fixture": {
             "id": 977345,
-            "referee": "Fernando Rapallini, Argentina",
+            "referee": "F. Rapallini",
             "timezone": "UTC",
             "date": "2022-12-06T15:00:00+00:00",
             "timestamp": 1670338800,
@@ -3617,7 +3617,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Al Rayyan"
+                "city": "Ar-Rayyan"
             },
             "status": {
                 "long": "Match Finished",
@@ -3674,7 +3674,7 @@
     {
         "fixture": {
             "id": 977705,
-            "referee": "Clement Turpin, France",
+            "referee": "C. Turpin",
             "timezone": "UTC",
             "date": "2022-12-05T19:00:00+00:00",
             "timestamp": 1670266800,
@@ -3685,7 +3685,7 @@
             "venue": {
                 "id": null,
                 "name": "Stadium 974",
-                "city": "Ras Abu Aboud"
+                "city": "Doha"
             },
             "status": {
                 "long": "Match Finished",
@@ -3742,7 +3742,7 @@
     {
         "fixture": {
             "id": 977706,
-            "referee": "Cesar Arturo Ramos Palazuelos, Mexico",
+            "referee": "C. Ramos",
             "timezone": "UTC",
             "date": "2022-12-06T19:00:00+00:00",
             "timestamp": 1670353200,
