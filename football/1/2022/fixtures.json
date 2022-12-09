@@ -3816,7 +3816,7 @@
             "timestamp": 1670612400,
             "periods": {
                 "first": 1670612400,
-                "second": null
+                "second": 1670616000
             },
             "venue": {
                 "id": null,
@@ -3824,9 +3824,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 21
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 60
             }
         },
         "league": {
@@ -3843,23 +3843,23 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
