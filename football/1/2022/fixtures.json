@@ -3824,9 +3824,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 101
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120
             }
         },
         "league": {
@@ -3843,13 +3843,13 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
@@ -3870,8 +3870,8 @@
                 "away": 0
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 4
             }
         }
     },
