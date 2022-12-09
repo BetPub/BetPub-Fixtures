@@ -7,8 +7,8 @@
             "date": "2022-12-09T19:00:00+00:00",
             "timestamp": 1670612400,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1670612400,
+                "second": 1670616000
             },
             "venue": {
                 "id": null,
@@ -16,9 +16,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
@@ -35,23 +35,23 @@
                 "id": 1118,
                 "name": "Netherlands",
                 "logo": "https://media.api-sports.io/football/teams/1118.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
