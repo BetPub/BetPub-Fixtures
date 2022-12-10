@@ -212,7 +212,7 @@
             "timestamp": 1670684400,
             "periods": {
                 "first": 1670684400,
-                "second": null
+                "second": 1670688000
             },
             "venue": {
                 "id": null,
@@ -220,9 +220,9 @@
                 "city": "Al-Thumama"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 21
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
@@ -239,22 +239,22 @@
                 "id": 31,
                 "name": "Morocco",
                 "logo": "https://media.api-sports.io/football/teams/31.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 27,
                 "name": "Portugal",
                 "logo": "https://media.api-sports.io/football/teams/27.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
