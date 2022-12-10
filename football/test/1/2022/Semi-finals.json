@@ -66,5 +66,73 @@
                 "away": null
             }
         }
+    },
+    {
+        "fixture": {
+            "id": 978488,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-14T19:00:00+00:00",
+            "timestamp": 1671044400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Al Bayt Stadium",
+                "city": "Al Khor"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Semi-finals"
+        },
+        "teams": {
+            "home": {
+                "id": 2,
+                "name": "France",
+                "logo": "https://media.api-sports.io/football/teams/2.png",
+                "winner": null
+            },
+            "away": {
+                "id": 31,
+                "name": "Morocco",
+                "logo": "https://media.api-sports.io/football/teams/31.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
     }
 ]
