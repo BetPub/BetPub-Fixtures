@@ -3810,7 +3810,7 @@
     {
         "fixture": {
             "id": 977794,
-            "referee": "Antonio Mateu",
+            "referee": "Antonio Mateu, Spain",
             "timezone": "UTC",
             "date": "2022-12-09T19:00:00+00:00",
             "timestamp": 1670612400,
@@ -3946,7 +3946,7 @@
     {
         "fixture": {
             "id": 978072,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-12-09T15:00:00+00:00",
             "timestamp": 1670598000,
@@ -3957,7 +3957,7 @@
             "venue": {
                 "id": null,
                 "name": "Education City Stadium",
-                "city": "Ar-Rayyan"
+                "city": "Al Rayyan"
             },
             "status": {
                 "long": "Match Finished",
