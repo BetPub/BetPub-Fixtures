@@ -3883,7 +3883,7 @@
             "date": "2022-12-10T19:00:00+00:00",
             "timestamp": 1670698800,
             "periods": {
-                "first": null,
+                "first": 1670698800,
                 "second": null
             },
             "venue": {
@@ -3892,9 +3892,9 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 21
             }
         },
         "league": {
@@ -3911,23 +3911,23 @@
                 "id": 10,
                 "name": "England",
                 "logo": "https://media.api-sports.io/football/teams/10.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 2,
                 "name": "France",
                 "logo": "https://media.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
