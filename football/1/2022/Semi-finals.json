@@ -16,9 +16,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 66
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -45,7 +45,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -54,8 +54,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "extratime": {
                 "home": null,
