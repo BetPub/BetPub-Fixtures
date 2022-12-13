@@ -7,7 +7,7 @@
             "date": "2022-12-13T19:00:00+00:00",
             "timestamp": 1670958000,
             "periods": {
-                "first": null,
+                "first": 1670958000,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 22
             }
         },
         "league": {
@@ -40,18 +40,18 @@
             "away": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-2.api-sports.io/football/teams/3.png",
+                "logo": "https://media-1.api-sports.io/football/teams/3.png",
                 "winner": null
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -102,7 +102,7 @@
             "home": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-1.api-sports.io/football/teams/2.png",
+                "logo": "https://media-2.api-sports.io/football/teams/2.png",
                 "winner": null
             },
             "away": {
