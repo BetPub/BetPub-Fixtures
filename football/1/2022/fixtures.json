@@ -34,7 +34,7 @@
             "home": {
                 "id": 13,
                 "name": "Senegal",
-                "logo": "https://media-2.api-sports.io/football/teams/13.png",
+                "logo": "https://media-1.api-sports.io/football/teams/13.png",
                 "winner": false
             },
             "away": {
@@ -244,7 +244,7 @@
             "away": {
                 "id": 23,
                 "name": "Saudi Arabia",
-                "logo": "https://media-1.api-sports.io/football/teams/23.png",
+                "logo": "https://media-2.api-sports.io/football/teams/23.png",
                 "winner": true
             }
         },
@@ -312,7 +312,7 @@
             "away": {
                 "id": 28,
                 "name": "Tunisia",
-                "logo": "https://media-2.api-sports.io/football/teams/28.png",
+                "logo": "https://media-1.api-sports.io/football/teams/28.png",
                 "winner": null
             }
         },
@@ -442,7 +442,7 @@
             "home": {
                 "id": 31,
                 "name": "Morocco",
-                "logo": "https://media-1.api-sports.io/football/teams/31.png",
+                "logo": "https://media-2.api-sports.io/football/teams/31.png",
                 "winner": null
             },
             "away": {
@@ -510,13 +510,13 @@
             "home": {
                 "id": 25,
                 "name": "Germany",
-                "logo": "https://media-1.api-sports.io/football/teams/25.png",
+                "logo": "https://media-2.api-sports.io/football/teams/25.png",
                 "winner": false
             },
             "away": {
                 "id": 12,
                 "name": "Japan",
-                "logo": "https://media-2.api-sports.io/football/teams/12.png",
+                "logo": "https://media-1.api-sports.io/football/teams/12.png",
                 "winner": true
             }
         },
@@ -578,13 +578,13 @@
             "home": {
                 "id": 1,
                 "name": "Belgium",
-                "logo": "https://media-2.api-sports.io/football/teams/1.png",
+                "logo": "https://media-1.api-sports.io/football/teams/1.png",
                 "winner": true
             },
             "away": {
                 "id": 5529,
                 "name": "Canada",
-                "logo": "https://media-2.api-sports.io/football/teams/5529.png",
+                "logo": "https://media-1.api-sports.io/football/teams/5529.png",
                 "winner": false
             }
         },
@@ -788,7 +788,7 @@
             "away": {
                 "id": 1504,
                 "name": "Ghana",
-                "logo": "https://media-2.api-sports.io/football/teams/1504.png",
+                "logo": "https://media-1.api-sports.io/football/teams/1504.png",
                 "winner": false
             }
         },
@@ -992,7 +992,7 @@
             "away": {
                 "id": 2382,
                 "name": "Ecuador",
-                "logo": "https://media-1.api-sports.io/football/teams/2382.png",
+                "logo": "https://media-2.api-sports.io/football/teams/2382.png",
                 "winner": null
             }
         },
@@ -1054,13 +1054,13 @@
             "home": {
                 "id": 10,
                 "name": "England",
-                "logo": "https://media-1.api-sports.io/football/teams/10.png",
+                "logo": "https://media-2.api-sports.io/football/teams/10.png",
                 "winner": null
             },
             "away": {
                 "id": 2384,
                 "name": "USA",
-                "logo": "https://media-2.api-sports.io/football/teams/2384.png",
+                "logo": "https://media-1.api-sports.io/football/teams/2384.png",
                 "winner": null
             }
         },
@@ -1122,7 +1122,7 @@
             "home": {
                 "id": 24,
                 "name": "Poland",
-                "logo": "https://media-2.api-sports.io/football/teams/24.png",
+                "logo": "https://media-1.api-sports.io/football/teams/24.png",
                 "winner": true
             },
             "away": {
@@ -1190,13 +1190,13 @@
             "home": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-2.api-sports.io/football/teams/2.png",
+                "logo": "https://media-1.api-sports.io/football/teams/2.png",
                 "winner": true
             },
             "away": {
                 "id": 21,
                 "name": "Denmark",
-                "logo": "https://media-2.api-sports.io/football/teams/21.png",
+                "logo": "https://media-1.api-sports.io/football/teams/21.png",
                 "winner": false
             }
         },
@@ -1258,13 +1258,13 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-2.api-sports.io/football/teams/26.png",
+                "logo": "https://media-1.api-sports.io/football/teams/26.png",
                 "winner": true
             },
             "away": {
                 "id": 16,
                 "name": "Mexico",
-                "logo": "https://media-2.api-sports.io/football/teams/16.png",
+                "logo": "https://media-1.api-sports.io/football/teams/16.png",
                 "winner": false
             }
         },
@@ -1394,7 +1394,7 @@
             "home": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-2.api-sports.io/football/teams/3.png",
+                "logo": "https://media-1.api-sports.io/football/teams/3.png",
                 "winner": true
             },
             "away": {
@@ -1536,7 +1536,7 @@
             "away": {
                 "id": 14,
                 "name": "Serbia",
-                "logo": "https://media-1.api-sports.io/football/teams/14.png",
+                "logo": "https://media-2.api-sports.io/football/teams/14.png",
                 "winner": null
             }
         },
@@ -1666,7 +1666,7 @@
             "home": {
                 "id": 6,
                 "name": "Brazil",
-                "logo": "https://media-2.api-sports.io/football/teams/6.png",
+                "logo": "https://media-1.api-sports.io/football/teams/6.png",
                 "winner": true
             },
             "away": {
@@ -1734,7 +1734,7 @@
             "home": {
                 "id": 27,
                 "name": "Portugal",
-                "logo": "https://media-2.api-sports.io/football/teams/27.png",
+                "logo": "https://media-1.api-sports.io/football/teams/27.png",
                 "winner": true
             },
             "away": {
@@ -1802,13 +1802,13 @@
             "home": {
                 "id": 1118,
                 "name": "Netherlands",
-                "logo": "https://media-1.api-sports.io/football/teams/1118.png",
+                "logo": "https://media-2.api-sports.io/football/teams/1118.png",
                 "winner": true
             },
             "away": {
                 "id": 1569,
                 "name": "Qatar",
-                "logo": "https://media-2.api-sports.io/football/teams/1569.png",
+                "logo": "https://media-1.api-sports.io/football/teams/1569.png",
                 "winner": false
             }
         },
@@ -1870,13 +1870,13 @@
             "home": {
                 "id": 2382,
                 "name": "Ecuador",
-                "logo": "https://media-1.api-sports.io/football/teams/2382.png",
+                "logo": "https://media-2.api-sports.io/football/teams/2382.png",
                 "winner": false
             },
             "away": {
                 "id": 13,
                 "name": "Senegal",
-                "logo": "https://media-2.api-sports.io/football/teams/13.png",
+                "logo": "https://media-1.api-sports.io/football/teams/13.png",
                 "winner": true
             }
         },
@@ -2006,7 +2006,7 @@
             "home": {
                 "id": 28,
                 "name": "Tunisia",
-                "logo": "https://media-2.api-sports.io/football/teams/28.png",
+                "logo": "https://media-1.api-sports.io/football/teams/28.png",
                 "winner": true
             },
             "away": {
@@ -2148,7 +2148,7 @@
             "away": {
                 "id": 16,
                 "name": "Mexico",
-                "logo": "https://media-1.api-sports.io/football/teams/16.png",
+                "logo": "https://media-2.api-sports.io/football/teams/16.png",
                 "winner": true
             }
         },
@@ -2284,7 +2284,7 @@
             "away": {
                 "id": 31,
                 "name": "Morocco",
-                "logo": "https://media-2.api-sports.io/football/teams/31.png",
+                "logo": "https://media-1.api-sports.io/football/teams/31.png",
                 "winner": true
             }
         },
@@ -2420,7 +2420,7 @@
             "away": {
                 "id": 27,
                 "name": "Portugal",
-                "logo": "https://media-2.api-sports.io/football/teams/27.png",
+                "logo": "https://media-1.api-sports.io/football/teams/27.png",
                 "winner": false
             }
         },
@@ -2482,13 +2482,13 @@
             "home": {
                 "id": 1504,
                 "name": "Ghana",
-                "logo": "https://media-1.api-sports.io/football/teams/1504.png",
+                "logo": "https://media-2.api-sports.io/football/teams/1504.png",
                 "winner": false
             },
             "away": {
                 "id": 7,
                 "name": "Uruguay",
-                "logo": "https://media-2.api-sports.io/football/teams/7.png",
+                "logo": "https://media-1.api-sports.io/football/teams/7.png",
                 "winner": true
             }
         },
@@ -2754,7 +2754,7 @@
             "home": {
                 "id": 767,
                 "name": "Wales",
-                "logo": "https://media-1.api-sports.io/football/teams/767.png",
+                "logo": "https://media-2.api-sports.io/football/teams/767.png",
                 "winner": false
             },
             "away": {
@@ -2828,7 +2828,7 @@
             "away": {
                 "id": 10,
                 "name": "England",
-                "logo": "https://media-1.api-sports.io/football/teams/10.png",
+                "logo": "https://media-2.api-sports.io/football/teams/10.png",
                 "winner": true
             }
         },
@@ -2964,7 +2964,7 @@
             "away": {
                 "id": 29,
                 "name": "Costa Rica",
-                "logo": "https://media-1.api-sports.io/football/teams/29.png",
+                "logo": "https://media-2.api-sports.io/football/teams/29.png",
                 "winner": false
             }
         },
@@ -3026,13 +3026,13 @@
             "home": {
                 "id": 28,
                 "name": "Tunisia",
-                "logo": "https://media-2.api-sports.io/football/teams/28.png",
+                "logo": "https://media-1.api-sports.io/football/teams/28.png",
                 "winner": false
             },
             "away": {
                 "id": 20,
                 "name": "Australia",
-                "logo": "https://media-1.api-sports.io/football/teams/20.png",
+                "logo": "https://media-2.api-sports.io/football/teams/20.png",
                 "winner": true
             }
         },
@@ -3094,13 +3094,13 @@
             "home": {
                 "id": 12,
                 "name": "Japan",
-                "logo": "https://media-1.api-sports.io/football/teams/12.png",
+                "logo": "https://media-2.api-sports.io/football/teams/12.png",
                 "winner": false
             },
             "away": {
                 "id": 29,
                 "name": "Costa Rica",
-                "logo": "https://media-2.api-sports.io/football/teams/29.png",
+                "logo": "https://media-1.api-sports.io/football/teams/29.png",
                 "winner": true
             }
         },
@@ -3168,7 +3168,7 @@
             "away": {
                 "id": 21,
                 "name": "Denmark",
-                "logo": "https://media-1.api-sports.io/football/teams/21.png",
+                "logo": "https://media-2.api-sports.io/football/teams/21.png",
                 "winner": false
             }
         },
@@ -3298,13 +3298,13 @@
             "home": {
                 "id": 1118,
                 "name": "Netherlands",
-                "logo": "https://media-1.api-sports.io/football/teams/1118.png",
+                "logo": "https://media-2.api-sports.io/football/teams/1118.png",
                 "winner": true
             },
             "away": {
                 "id": 2384,
                 "name": "USA",
-                "logo": "https://media-2.api-sports.io/football/teams/2384.png",
+                "logo": "https://media-1.api-sports.io/football/teams/2384.png",
                 "winner": false
             }
         },
@@ -3434,7 +3434,7 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-1.api-sports.io/football/teams/26.png",
+                "logo": "https://media-2.api-sports.io/football/teams/26.png",
                 "winner": true
             },
             "away": {
@@ -3774,7 +3774,7 @@
             "home": {
                 "id": 27,
                 "name": "Portugal",
-                "logo": "https://media-1.api-sports.io/football/teams/27.png",
+                "logo": "https://media-2.api-sports.io/football/teams/27.png",
                 "winner": true
             },
             "away": {
@@ -3848,7 +3848,7 @@
             "away": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-1.api-sports.io/football/teams/26.png",
+                "logo": "https://media-2.api-sports.io/football/teams/26.png",
                 "winner": true
             }
         },
@@ -3916,7 +3916,7 @@
             "away": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-1.api-sports.io/football/teams/2.png",
+                "logo": "https://media-2.api-sports.io/football/teams/2.png",
                 "winner": true
             }
         },
@@ -3978,13 +3978,13 @@
             "home": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-2.api-sports.io/football/teams/3.png",
+                "logo": "https://media-1.api-sports.io/football/teams/3.png",
                 "winner": true
             },
             "away": {
                 "id": 6,
                 "name": "Brazil",
-                "logo": "https://media-1.api-sports.io/football/teams/6.png",
+                "logo": "https://media-2.api-sports.io/football/teams/6.png",
                 "winner": false
             }
         },
@@ -4052,7 +4052,7 @@
             "away": {
                 "id": 27,
                 "name": "Portugal",
-                "logo": "https://media-2.api-sports.io/football/teams/27.png",
+                "logo": "https://media-1.api-sports.io/football/teams/27.png",
                 "winner": false
             }
         },
@@ -4114,7 +4114,7 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-2.api-sports.io/football/teams/26.png",
+                "logo": "https://media-1.api-sports.io/football/teams/26.png",
                 "winner": null
             },
             "away": {
@@ -4182,13 +4182,13 @@
             "home": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-2.api-sports.io/football/teams/2.png",
+                "logo": "https://media-1.api-sports.io/football/teams/2.png",
                 "winner": null
             },
             "away": {
                 "id": 31,
                 "name": "Morocco",
-                "logo": "https://media-2.api-sports.io/football/teams/31.png",
+                "logo": "https://media-1.api-sports.io/football/teams/31.png",
                 "winner": null
             }
         },
