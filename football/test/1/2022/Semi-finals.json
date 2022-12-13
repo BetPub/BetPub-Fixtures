@@ -16,16 +16,16 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 62
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-2.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "Semi-finals"
@@ -34,18 +34,18 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-2.api-sports.io/football/teams/26.png",
+                "logo": "https://media-1.api-sports.io/football/teams/26.png",
                 "winner": true
             },
             "away": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-2.api-sports.io/football/teams/3.png",
+                "logo": "https://media-1.api-sports.io/football/teams/3.png",
                 "winner": false
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -54,8 +54,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -93,7 +93,7 @@
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-2.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "Semi-finals"
@@ -108,7 +108,7 @@
             "away": {
                 "id": 31,
                 "name": "Morocco",
-                "logo": "https://media-1.api-sports.io/football/teams/31.png",
+                "logo": "https://media-2.api-sports.io/football/teams/31.png",
                 "winner": null
             }
         },
