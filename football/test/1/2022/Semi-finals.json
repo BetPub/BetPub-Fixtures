@@ -25,7 +25,7 @@
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "Semi-finals"
@@ -34,13 +34,13 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-2.api-sports.io/football/teams/26.png",
+                "logo": "https://media-1.api-sports.io/football/teams/26.png",
                 "winner": true
             },
             "away": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-1.api-sports.io/football/teams/3.png",
+                "logo": "https://media-4.api-sports.io/football/teams/3.png",
                 "winner": false
             }
         },
@@ -76,7 +76,7 @@
             "timestamp": 1671044400,
             "periods": {
                 "first": 1671044400,
-                "second": null
+                "second": 1671048000
             },
             "venue": {
                 "id": null,
@@ -84,16 +84,16 @@
                 "city": "Al Khor"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 22
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-4.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "Semi-finals"
@@ -102,13 +102,13 @@
             "home": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-4.api-sports.io/football/teams/2.png",
+                "logo": "https://media-1.api-sports.io/football/teams/2.png",
                 "winner": true
             },
             "away": {
                 "id": 31,
                 "name": "Morocco",
-                "logo": "https://media-4.api-sports.io/football/teams/31.png",
+                "logo": "https://media-2.api-sports.io/football/teams/31.png",
                 "winner": false
             }
         },
