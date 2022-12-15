@@ -25,7 +25,7 @@
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-4.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "3rd Place Final"
@@ -34,7 +34,7 @@
             "home": {
                 "id": 3,
                 "name": "Croatia",
-                "logo": "https://media-2.api-sports.io/football/teams/3.png",
+                "logo": "https://media-1.api-sports.io/football/teams/3.png",
                 "winner": null
             },
             "away": {
