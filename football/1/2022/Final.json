@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 979139,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-12-18T15:00:00+00:00",
+            "timestamp": 1671375600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Lusail Iconic Stadium",
+                "city": "Lusail"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 1,
+            "name": "World Cup",
+            "country": "World",
+            "logo": "https://media-4.api-sports.io/football/leagues/1.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Final"
+        },
+        "teams": {
+            "home": {
+                "id": 26,
+                "name": "Argentina",
+                "logo": "https://media-4.api-sports.io/football/teams/26.png",
+                "winner": null
+            },
+            "away": {
+                "id": 2,
+                "name": "France",
+                "logo": "https://media-1.api-sports.io/football/teams/2.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]
