@@ -8,7 +8,7 @@
             "timestamp": 1671375600,
             "periods": {
                 "first": 1671375600,
-                "second": null
+                "second": 1671379200
             },
             "venue": {
                 "id": null,
@@ -16,9 +16,9 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 22
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 60
             }
         },
         "league": {
@@ -34,23 +34,23 @@
             "home": {
                 "id": 26,
                 "name": "Argentina",
-                "logo": "https://media-4.api-sports.io/football/teams/26.png",
-                "winner": null
+                "logo": "https://media-6.api-sports.io/football/teams/26.png",
+                "winner": true
             },
             "away": {
                 "id": 2,
                 "name": "France",
                 "logo": "https://media-5.api-sports.io/football/teams/2.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 2,
                 "away": 0
             },
             "fulltime": {
