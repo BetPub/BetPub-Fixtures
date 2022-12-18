@@ -16,16 +16,16 @@
                 "city": "Lusail"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120
             }
         },
         "league": {
             "id": 1,
             "name": "World Cup",
             "country": "World",
-            "logo": "https://media-2.api-sports.io/football/leagues/1.png",
+            "logo": "https://media-1.api-sports.io/football/leagues/1.png",
             "flag": null,
             "season": 2022,
             "round": "Final"
@@ -35,18 +35,18 @@
                 "id": 26,
                 "name": "Argentina",
                 "logo": "https://media-2.api-sports.io/football/teams/26.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2,
                 "name": "France",
-                "logo": "https://media-6.api-sports.io/football/teams/2.png",
-                "winner": null
+                "logo": "https://media-5.api-sports.io/football/teams/2.png",
+                "winner": false
             }
         },
         "goals": {
-            "home": 2,
-            "away": 2
+            "home": 3,
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -58,12 +58,12 @@
                 "away": 2
             },
             "extratime": {
-                "home": 0,
-                "away": 0
+                "home": 1,
+                "away": 1
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 2
             }
         }
     }
