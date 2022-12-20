@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 868116,
-            "referee": null,
+            "referee": "A. Marriner",
             "timezone": "UTC",
             "date": "2022-12-31T15:00:00+00:00",
             "timestamp": 1672498800,
@@ -26,7 +26,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -34,13 +34,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-6.api-sports.io/football/teams/35.png",
+                "logo": "https://media-4.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-6.api-sports.io/football/teams/52.png",
+                "logo": "https://media-5.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 868117,
-            "referee": null,
+            "referee": "A. Taylor",
             "timezone": "UTC",
             "date": "2022-12-31T17:30:00+00:00",
             "timestamp": 1672507800,
@@ -94,7 +94,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -108,7 +108,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-4.api-sports.io/football/teams/42.png",
+                "logo": "https://media-6.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 868118,
-            "referee": null,
+            "referee": "G. Scott",
             "timezone": "UTC",
             "date": "2022-12-31T15:00:00+00:00",
             "timestamp": 1672498800,
@@ -162,7 +162,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -170,13 +170,13 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-4.api-sports.io/football/teams/36.png",
+                "logo": "https://media-5.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-6.api-sports.io/football/teams/41.png",
+                "logo": "https://media-5.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 868119,
-            "referee": null,
+            "referee": "C. Pawson",
             "timezone": "UTC",
             "date": "2022-12-30T20:00:00+00:00",
             "timestamp": 1672430400,
@@ -230,7 +230,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -244,7 +244,7 @@
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-4.api-sports.io/football/teams/46.png",
+                "logo": "https://media-5.api-sports.io/football/teams/46.png",
                 "winner": null
             }
         },
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868120,
-            "referee": null,
+            "referee": "A. Madley",
             "timezone": "UTC",
             "date": "2022-12-31T15:00:00+00:00",
             "timestamp": 1672498800,
@@ -298,7 +298,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -312,7 +312,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-5.api-sports.io/football/teams/45.png",
+                "logo": "https://media-6.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868121,
-            "referee": null,
+            "referee": "S. Hooper",
             "timezone": "UTC",
             "date": "2022-12-31T15:00:00+00:00",
             "timestamp": 1672498800,
@@ -366,7 +366,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -380,7 +380,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-5.api-sports.io/football/teams/63.png",
+                "logo": "https://media-4.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -434,7 +434,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -448,7 +448,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-5.api-sports.io/football/teams/49.png",
+                "logo": "https://media-4.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868123,
-            "referee": null,
+            "referee": "J. Brooks",
             "timezone": "UTC",
             "date": "2023-01-01T14:00:00+00:00",
             "timestamp": 1672581600,
@@ -502,7 +502,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -510,7 +510,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-6.api-sports.io/football/teams/47.png",
+                "logo": "https://media-5.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868124,
-            "referee": null,
+            "referee": "D. England",
             "timezone": "UTC",
             "date": "2022-12-30T19:45:00+00:00",
             "timestamp": 1672429500,
@@ -570,7 +570,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -578,7 +578,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-4.api-sports.io/football/teams/48.png",
+                "logo": "https://media-5.api-sports.io/football/teams/48.png",
                 "winner": null
             },
             "away": {
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868125,
-            "referee": null,
+            "referee": "R. Jones",
             "timezone": "UTC",
             "date": "2022-12-31T12:30:00+00:00",
             "timestamp": 1672489800,
@@ -638,7 +638,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-4.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "flag": "https://media-4.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
