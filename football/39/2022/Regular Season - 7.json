@@ -102,13 +102,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-1.api-sports.io/football/teams/42.png",
+                "logo": "https://media-2.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-2.api-sports.io/football/teams/45.png",
+                "logo": "https://media-1.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -170,7 +170,7 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-2.api-sports.io/football/teams/52.png",
+                "logo": "https://media-1.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
@@ -238,7 +238,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-2.api-sports.io/football/teams/36.png",
+                "logo": "https://media-1.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -312,7 +312,7 @@
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-1.api-sports.io/football/teams/65.png",
+                "logo": "https://media-2.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -442,7 +442,7 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-1.api-sports.io/football/teams/40.png",
+                "logo": "https://media-2.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
@@ -516,7 +516,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-1.api-sports.io/football/teams/55.png",
+                "logo": "https://media-2.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
