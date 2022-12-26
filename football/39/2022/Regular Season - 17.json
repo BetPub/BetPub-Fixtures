@@ -40,7 +40,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-1.api-sports.io/football/teams/48.png",
+                "logo": "https://media-2.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -108,7 +108,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-2.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -144,7 +144,7 @@
             "timestamp": 1672057800,
             "periods": {
                 "first": 1672057800,
-                "second": null
+                "second": 1672061400
             },
             "venue": {
                 "id": 10503,
@@ -152,9 +152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -170,19 +170,19 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-1.api-sports.io/football/teams/55.png",
-                "winner": true
+                "logo": "https://media-2.api-sports.io/football/teams/55.png",
+                "winner": null
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-2.api-sports.io/football/teams/47.png",
-                "winner": false
+                "logo": "https://media-1.api-sports.io/football/teams/47.png",
+                "winner": null
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -238,13 +238,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-2.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-1.api-sports.io/football/teams/35.png",
+                "logo": "https://media-2.api-sports.io/football/teams/35.png",
                 "winner": null
             }
         },
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868110,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-12-26T15:00:00+00:00",
             "timestamp": 1672066800,
@@ -306,13 +306,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-1.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-1.api-sports.io/football/teams/36.png",
+                "logo": "https://media-2.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868111,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-12-26T15:00:00+00:00",
             "timestamp": 1672066800,
@@ -374,7 +374,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-1.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -448,7 +448,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-2.api-sports.io/football/teams/50.png",
+                "logo": "https://media-1.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868113,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-12-26T15:00:00+00:00",
             "timestamp": 1672066800,
@@ -510,13 +510,13 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-2.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-1.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868115,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-12-26T15:00:00+00:00",
             "timestamp": 1672066800,
