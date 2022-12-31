@@ -34,13 +34,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-1.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-1.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -108,7 +108,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-1.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -170,13 +170,13 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-1.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-1.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -306,7 +306,7 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-1.api-sports.io/football/teams/50.png",
                 "winner": null
             },
             "away": {
@@ -442,7 +442,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-1.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
@@ -510,7 +510,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-1.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868125,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-12-31T12:30:00+00:00",
             "timestamp": 1672489800,
