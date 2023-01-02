@@ -102,7 +102,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-1.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
@@ -144,7 +144,7 @@
             "timestamp": 1672680600,
             "periods": {
                 "first": 1672680600,
-                "second": null
+                "second": 1672684200
             },
             "venue": {
                 "id": 10503,
@@ -152,9 +152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -181,8 +181,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
@@ -244,7 +244,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-1.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -306,7 +306,7 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-1.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
@@ -442,7 +442,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-1.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
@@ -510,7 +510,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-1.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -578,13 +578,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-1.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-1.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             }
         },
