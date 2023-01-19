@@ -4574,7 +4574,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 62
+                "elapsed": 66
             }
         },
         "league": {
@@ -4591,17 +4591,17 @@
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media-3.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media-3.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 2
         },
         "score": {
