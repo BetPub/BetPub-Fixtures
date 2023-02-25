@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 867946,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-08-05T19:00:00+00:00",
             "timestamp": 1659726000,
@@ -34,7 +34,7 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": false
             },
             "away": {
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 867947,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-08-06T11:30:00+00:00",
             "timestamp": 1659785400,
@@ -108,7 +108,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 867948,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-08-06T14:00:00+00:00",
             "timestamp": 1659794400,
@@ -170,13 +170,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": true
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": false
             }
         },
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 867949,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-08-06T14:00:00+00:00",
             "timestamp": 1659794400,
@@ -244,7 +244,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": false
             }
         },
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 867950,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-08-07T13:00:00+00:00",
             "timestamp": 1659877200,
@@ -306,7 +306,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 867951,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-08-06T14:00:00+00:00",
             "timestamp": 1659794400,
@@ -374,7 +374,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             },
             "away": {
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 867952,
-            "referee": "A. Marriner",
+            "referee": "Andre Marriner, England",
             "timezone": "UTC",
             "date": "2022-08-06T14:00:00+00:00",
             "timestamp": 1659794400,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 867953,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-08-06T16:30:00+00:00",
             "timestamp": 1659803400,
@@ -510,13 +510,13 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": false
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": true
             }
         },
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 867954,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-08-07T13:00:00+00:00",
             "timestamp": 1659877200,
@@ -578,13 +578,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": false
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": true
             }
         },
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 867955,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-08-07T15:30:00+00:00",
             "timestamp": 1659886200,
@@ -682,7 +682,7 @@
     {
         "fixture": {
             "id": 867956,
-            "referee": "D. England",
+            "referee": "England Darren, England",
             "timezone": "UTC",
             "date": "2022-08-13T14:00:00+00:00",
             "timestamp": 1660399200,
@@ -714,7 +714,7 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
@@ -750,7 +750,7 @@
     {
         "fixture": {
             "id": 867957,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-08-13T11:30:00+00:00",
             "timestamp": 1660390200,
@@ -818,7 +818,7 @@
     {
         "fixture": {
             "id": 867958,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-08-13T16:30:00+00:00",
             "timestamp": 1660408200,
@@ -850,7 +850,7 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": true
             },
             "away": {
@@ -886,7 +886,7 @@
     {
         "fixture": {
             "id": 867959,
-            "referee": "G. Scott",
+            "referee": "Graham Scott, England",
             "timezone": "UTC",
             "date": "2022-08-13T14:00:00+00:00",
             "timestamp": 1660399200,
@@ -918,7 +918,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
@@ -954,7 +954,7 @@
     {
         "fixture": {
             "id": 867960,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-08-14T15:30:00+00:00",
             "timestamp": 1660491000,
@@ -992,7 +992,7 @@
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             }
         },
@@ -1022,7 +1022,7 @@
     {
         "fixture": {
             "id": 867961,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-08-15T19:00:00+00:00",
             "timestamp": 1660590000,
@@ -1090,7 +1090,7 @@
     {
         "fixture": {
             "id": 867962,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-08-13T14:00:00+00:00",
             "timestamp": 1660399200,
@@ -1158,7 +1158,7 @@
     {
         "fixture": {
             "id": 867963,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-08-14T13:00:00+00:00",
             "timestamp": 1660482000,
@@ -1190,7 +1190,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": true
             },
             "away": {
@@ -1226,7 +1226,7 @@
     {
         "fixture": {
             "id": 867964,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-08-13T14:00:00+00:00",
             "timestamp": 1660399200,
@@ -1258,7 +1258,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": null
             },
             "away": {
@@ -1294,7 +1294,7 @@
     {
         "fixture": {
             "id": 867965,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-08-13T14:00:00+00:00",
             "timestamp": 1660399200,
@@ -1326,7 +1326,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": null
             },
             "away": {
@@ -1362,7 +1362,7 @@
     {
         "fixture": {
             "id": 867966,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-08-20T16:30:00+00:00",
             "timestamp": 1661013000,
@@ -1430,7 +1430,7 @@
     {
         "fixture": {
             "id": 867967,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-08-20T14:00:00+00:00",
             "timestamp": 1661004000,
@@ -1468,7 +1468,7 @@
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": false
             }
         },
@@ -1498,7 +1498,7 @@
     {
         "fixture": {
             "id": 867968,
-            "referee": "A. Marriner",
+            "referee": "Andre Marriner, England",
             "timezone": "UTC",
             "date": "2022-08-20T14:00:00+00:00",
             "timestamp": 1661004000,
@@ -1530,7 +1530,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -1566,7 +1566,7 @@
     {
         "fixture": {
             "id": 867969,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-08-20T14:00:00+00:00",
             "timestamp": 1661004000,
@@ -1604,7 +1604,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": false
             }
         },
@@ -1634,7 +1634,7 @@
     {
         "fixture": {
             "id": 867970,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-08-21T13:00:00+00:00",
             "timestamp": 1661086800,
@@ -1666,7 +1666,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": true
             },
             "away": {
@@ -1702,7 +1702,7 @@
     {
         "fixture": {
             "id": 867971,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-08-20T14:00:00+00:00",
             "timestamp": 1661004000,
@@ -1734,7 +1734,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": false
             },
             "away": {
@@ -1770,7 +1770,7 @@
     {
         "fixture": {
             "id": 867972,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-08-22T19:00:00+00:00",
             "timestamp": 1661194800,
@@ -1808,7 +1808,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": false
             }
         },
@@ -1838,7 +1838,7 @@
     {
         "fixture": {
             "id": 867973,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-08-21T15:30:00+00:00",
             "timestamp": 1661095800,
@@ -1870,13 +1870,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -1906,7 +1906,7 @@
     {
         "fixture": {
             "id": 867974,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-08-20T11:30:00+00:00",
             "timestamp": 1660995000,
@@ -1974,7 +1974,7 @@
     {
         "fixture": {
             "id": 867975,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-08-21T13:00:00+00:00",
             "timestamp": 1661086800,
@@ -2012,7 +2012,7 @@
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": true
             }
         },
@@ -2042,7 +2042,7 @@
     {
         "fixture": {
             "id": 867976,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-08-27T16:30:00+00:00",
             "timestamp": 1661617800,
@@ -2074,13 +2074,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": false
             }
         },
@@ -2110,7 +2110,7 @@
     {
         "fixture": {
             "id": 867977,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-08-28T13:00:00+00:00",
             "timestamp": 1661691600,
@@ -2142,7 +2142,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": false
             },
             "away": {
@@ -2178,7 +2178,7 @@
     {
         "fixture": {
             "id": 867978,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-08-27T14:00:00+00:00",
             "timestamp": 1661608800,
@@ -2216,7 +2216,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -2246,7 +2246,7 @@
     {
         "fixture": {
             "id": 867979,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-08-27T14:00:00+00:00",
             "timestamp": 1661608800,
@@ -2284,7 +2284,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": false
             }
         },
@@ -2314,7 +2314,7 @@
     {
         "fixture": {
             "id": 867980,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-08-27T14:00:00+00:00",
             "timestamp": 1661608800,
@@ -2346,7 +2346,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": true
             },
             "away": {
@@ -2382,7 +2382,7 @@
     {
         "fixture": {
             "id": 867981,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-08-27T14:00:00+00:00",
             "timestamp": 1661608800,
@@ -2414,7 +2414,7 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": true
             },
             "away": {
@@ -2450,7 +2450,7 @@
     {
         "fixture": {
             "id": 867982,
-            "referee": "D. England",
+            "referee": "Graham Scott, England",
             "timezone": "UTC",
             "date": "2022-08-27T14:00:00+00:00",
             "timestamp": 1661608800,
@@ -2518,7 +2518,7 @@
     {
         "fixture": {
             "id": 867983,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-08-28T15:30:00+00:00",
             "timestamp": 1661700600,
@@ -2586,7 +2586,7 @@
     {
         "fixture": {
             "id": 867984,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-08-27T11:30:00+00:00",
             "timestamp": 1661599800,
@@ -2618,7 +2618,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": false
             },
             "away": {
@@ -2654,7 +2654,7 @@
     {
         "fixture": {
             "id": 867985,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-08-28T13:00:00+00:00",
             "timestamp": 1661691600,
@@ -2686,7 +2686,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": null
             },
             "away": {
@@ -2722,7 +2722,7 @@
     {
         "fixture": {
             "id": 867986,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-08-31T18:30:00+00:00",
             "timestamp": 1661970600,
@@ -2760,7 +2760,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -2790,7 +2790,7 @@
     {
         "fixture": {
             "id": 867987,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-08-31T18:30:00+00:00",
             "timestamp": 1661970600,
@@ -2822,13 +2822,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": false
             }
         },
@@ -2858,7 +2858,7 @@
     {
         "fixture": {
             "id": 867988,
-            "referee": "T. Bramall",
+            "referee": "Thomas Bramall, England",
             "timezone": "UTC",
             "date": "2022-08-30T18:30:00+00:00",
             "timestamp": 1661884200,
@@ -2926,7 +2926,7 @@
     {
         "fixture": {
             "id": 867989,
-            "referee": "D. England",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-08-30T19:00:00+00:00",
             "timestamp": 1661886000,
@@ -2994,7 +2994,7 @@
     {
         "fixture": {
             "id": 867990,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-09-01T19:00:00+00:00",
             "timestamp": 1662058800,
@@ -3026,7 +3026,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": false
             },
             "away": {
@@ -3062,7 +3062,7 @@
     {
         "fixture": {
             "id": 867991,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-08-31T18:45:00+00:00",
             "timestamp": 1661971500,
@@ -3130,7 +3130,7 @@
     {
         "fixture": {
             "id": 867992,
-            "referee": "S. Hooper",
+            "referee": "England Darren, England",
             "timezone": "UTC",
             "date": "2022-08-30T18:30:00+00:00",
             "timestamp": 1661884200,
@@ -3168,7 +3168,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -3198,7 +3198,7 @@
     {
         "fixture": {
             "id": 867993,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-08-30T18:45:00+00:00",
             "timestamp": 1661885100,
@@ -3230,7 +3230,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": true
             },
             "away": {
@@ -3266,7 +3266,7 @@
     {
         "fixture": {
             "id": 867994,
-            "referee": "A. Marriner",
+            "referee": "Andre Marriner, England",
             "timezone": "UTC",
             "date": "2022-08-31T19:00:00+00:00",
             "timestamp": 1661972400,
@@ -3304,7 +3304,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": false
             }
         },
@@ -3334,7 +3334,7 @@
     {
         "fixture": {
             "id": 867995,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-08-31T18:30:00+00:00",
             "timestamp": 1661970600,
@@ -3366,13 +3366,13 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": true
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": false
             }
         },
@@ -3402,7 +3402,7 @@
     {
         "fixture": {
             "id": 867996,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-09-03T16:30:00+00:00",
             "timestamp": 1662222600,
@@ -3440,7 +3440,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -3470,7 +3470,7 @@
     {
         "fixture": {
             "id": 867997,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -3508,7 +3508,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": false
             }
         },
@@ -3538,7 +3538,7 @@
     {
         "fixture": {
             "id": 867998,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-09-04T13:00:00+00:00",
             "timestamp": 1662296400,
@@ -3606,7 +3606,7 @@
     {
         "fixture": {
             "id": 867999,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -3638,7 +3638,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": true
             },
             "away": {
@@ -3674,7 +3674,7 @@
     {
         "fixture": {
             "id": 868000,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-09-03T11:30:00+00:00",
             "timestamp": 1662204600,
@@ -3706,7 +3706,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -3742,7 +3742,7 @@
     {
         "fixture": {
             "id": 868001,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-09-04T15:30:00+00:00",
             "timestamp": 1662305400,
@@ -3810,7 +3810,7 @@
     {
         "fixture": {
             "id": 868002,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -3842,13 +3842,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -3878,7 +3878,7 @@
     {
         "fixture": {
             "id": 868003,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -3916,7 +3916,7 @@
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": true
             }
         },
@@ -3946,7 +3946,7 @@
     {
         "fixture": {
             "id": 868004,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -3978,7 +3978,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": true
             },
             "away": {
@@ -4014,7 +4014,7 @@
     {
         "fixture": {
             "id": 868005,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-09-03T14:00:00+00:00",
             "timestamp": 1662213600,
@@ -4120,7 +4120,7 @@
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -4218,7 +4218,7 @@
     {
         "fixture": {
             "id": 868008,
-            "referee": "R. Jones",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2023-01-18T20:00:00+00:00",
             "timestamp": 1674072000,
@@ -4256,7 +4256,7 @@
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
@@ -4286,7 +4286,7 @@
     {
         "fixture": {
             "id": 868009,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2023-01-12T20:00:00+00:00",
             "timestamp": 1673553600,
@@ -4454,13 +4454,13 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -4528,7 +4528,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -4558,7 +4558,7 @@
     {
         "fixture": {
             "id": 868013,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2023-01-19T20:00:00+00:00",
             "timestamp": 1674158400,
@@ -4590,13 +4590,13 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": true
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": false
             }
         },
@@ -4664,7 +4664,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -4726,13 +4726,13 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": null
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -4762,7 +4762,7 @@
     {
         "fixture": {
             "id": 868016,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
@@ -4794,13 +4794,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": false
             }
         },
@@ -4830,7 +4830,7 @@
     {
         "fixture": {
             "id": 868017,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-09-18T11:00:00+00:00",
             "timestamp": 1663498800,
@@ -4862,13 +4862,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": true
             }
         },
@@ -4930,13 +4930,13 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -4998,7 +4998,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
@@ -5034,7 +5034,7 @@
     {
         "fixture": {
             "id": 868020,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-09-18T13:15:00+00:00",
             "timestamp": 1663506900,
@@ -5066,7 +5066,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": true
             },
             "away": {
@@ -5102,7 +5102,7 @@
     {
         "fixture": {
             "id": 868021,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2023-02-08T20:00:00+00:00",
             "timestamp": 1675886400,
@@ -5170,7 +5170,7 @@
     {
         "fixture": {
             "id": 868022,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-09-17T14:00:00+00:00",
             "timestamp": 1663423200,
@@ -5202,7 +5202,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
@@ -5238,7 +5238,7 @@
     {
         "fixture": {
             "id": 868023,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
@@ -5270,7 +5270,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": false
             },
             "away": {
@@ -5306,7 +5306,7 @@
     {
         "fixture": {
             "id": 868024,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-09-17T16:30:00+00:00",
             "timestamp": 1663432200,
@@ -5338,7 +5338,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": true
             },
             "away": {
@@ -5374,7 +5374,7 @@
     {
         "fixture": {
             "id": 868025,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-09-17T11:30:00+00:00",
             "timestamp": 1663414200,
@@ -5406,13 +5406,13 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": false
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": true
             }
         },
@@ -5442,7 +5442,7 @@
     {
         "fixture": {
             "id": 868026,
-            "referee": "T. Bramall",
+            "referee": "Thomas Bramall, England",
             "timezone": "UTC",
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
@@ -5474,7 +5474,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
@@ -5510,7 +5510,7 @@
     {
         "fixture": {
             "id": 868027,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-01T11:30:00+00:00",
             "timestamp": 1664623800,
@@ -5542,7 +5542,7 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
@@ -5578,7 +5578,7 @@
     {
         "fixture": {
             "id": 868028,
-            "referee": "C. Kavanagh",
+            "referee": "Chris Kavanagh, England",
             "timezone": "UTC",
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
@@ -5610,7 +5610,7 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": false
             },
             "away": {
@@ -5646,7 +5646,7 @@
     {
         "fixture": {
             "id": 868029,
-            "referee": "D. England",
+            "referee": "England Darren, England",
             "timezone": "UTC",
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
@@ -5684,7 +5684,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             }
         },
@@ -5714,7 +5714,7 @@
     {
         "fixture": {
             "id": 868030,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-10-02T15:30:00+00:00",
             "timestamp": 1664724600,
@@ -5746,7 +5746,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
@@ -5782,7 +5782,7 @@
     {
         "fixture": {
             "id": 868031,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-10-03T19:00:00+00:00",
             "timestamp": 1664823600,
@@ -5850,7 +5850,7 @@
     {
         "fixture": {
             "id": 868032,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
@@ -5918,7 +5918,7 @@
     {
         "fixture": {
             "id": 868033,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-10-02T13:00:00+00:00",
             "timestamp": 1664715600,
@@ -5956,7 +5956,7 @@
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": false
             }
         },
@@ -5986,7 +5986,7 @@
     {
         "fixture": {
             "id": 868034,
-            "referee": "A. Marriner",
+            "referee": "Andre Marriner, England",
             "timezone": "UTC",
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
@@ -6024,7 +6024,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": true
             }
         },
@@ -6054,7 +6054,7 @@
     {
         "fixture": {
             "id": 868035,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-10-01T16:30:00+00:00",
             "timestamp": 1664641800,
@@ -6086,13 +6086,13 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": true
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": false
             }
         },
@@ -6122,7 +6122,7 @@
     {
         "fixture": {
             "id": 868036,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
@@ -6154,7 +6154,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": true
             },
             "away": {
@@ -6190,7 +6190,7 @@
     {
         "fixture": {
             "id": 868037,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-10-09T15:30:00+00:00",
             "timestamp": 1665329400,
@@ -6222,13 +6222,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": false
             }
         },
@@ -6258,7 +6258,7 @@
     {
         "fixture": {
             "id": 868038,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-10-08T16:30:00+00:00",
             "timestamp": 1665246600,
@@ -6296,7 +6296,7 @@
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": true
             }
         },
@@ -6326,7 +6326,7 @@
     {
         "fixture": {
             "id": 868039,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
@@ -6358,13 +6358,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": true
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": false
             }
         },
@@ -6394,7 +6394,7 @@
     {
         "fixture": {
             "id": 868040,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
@@ -6426,13 +6426,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": false
             }
         },
@@ -6462,7 +6462,7 @@
     {
         "fixture": {
             "id": 868041,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-10-09T18:00:00+00:00",
             "timestamp": 1665338400,
@@ -6530,7 +6530,7 @@
     {
         "fixture": {
             "id": 868042,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
@@ -6562,7 +6562,7 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": true
             },
             "away": {
@@ -6598,7 +6598,7 @@
     {
         "fixture": {
             "id": 868043,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
@@ -6630,13 +6630,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": false
             }
         },
@@ -6666,7 +6666,7 @@
     {
         "fixture": {
             "id": 868044,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-10T19:00:00+00:00",
             "timestamp": 1665428400,
@@ -6698,7 +6698,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
@@ -6734,7 +6734,7 @@
     {
         "fixture": {
             "id": 868045,
-            "referee": "C. Kavanagh",
+            "referee": "Chris Kavanagh, England",
             "timezone": "UTC",
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
@@ -6766,7 +6766,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": true
             },
             "away": {
@@ -6802,7 +6802,7 @@
     {
         "fixture": {
             "id": 868046,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2022-10-16T13:00:00+00:00",
             "timestamp": 1665925200,
@@ -6870,7 +6870,7 @@
     {
         "fixture": {
             "id": 868047,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-10-14T19:00:00+00:00",
             "timestamp": 1665774000,
@@ -6902,13 +6902,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": true
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": false
             }
         },
@@ -6938,7 +6938,7 @@
     {
         "fixture": {
             "id": 868048,
-            "referee": "G. Scott",
+            "referee": "Graham Scott, England",
             "timezone": "UTC",
             "date": "2022-10-15T14:00:00+00:00",
             "timestamp": 1665842400,
@@ -6970,7 +6970,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -7006,7 +7006,7 @@
     {
         "fixture": {
             "id": 868049,
-            "referee": "C. Kavanagh",
+            "referee": "Chris Kavanagh, England",
             "timezone": "UTC",
             "date": "2022-10-16T13:00:00+00:00",
             "timestamp": 1665925200,
@@ -7074,7 +7074,7 @@
     {
         "fixture": {
             "id": 868050,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-10-15T11:30:00+00:00",
             "timestamp": 1665833400,
@@ -7112,7 +7112,7 @@
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -7142,7 +7142,7 @@
     {
         "fixture": {
             "id": 868051,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-16T15:30:00+00:00",
             "timestamp": 1665934200,
@@ -7210,7 +7210,7 @@
     {
         "fixture": {
             "id": 868052,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-10-16T13:00:00+00:00",
             "timestamp": 1665925200,
@@ -7248,7 +7248,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -7278,7 +7278,7 @@
     {
         "fixture": {
             "id": 868053,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-10-16T13:00:00+00:00",
             "timestamp": 1665925200,
@@ -7346,7 +7346,7 @@
     {
         "fixture": {
             "id": 868054,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-10-15T16:30:00+00:00",
             "timestamp": 1665851400,
@@ -7378,13 +7378,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": true
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": false
             }
         },
@@ -7414,7 +7414,7 @@
     {
         "fixture": {
             "id": 868055,
-            "referee": "T. Bramall",
+            "referee": "Thomas Bramall, England",
             "timezone": "UTC",
             "date": "2022-10-15T14:00:00+00:00",
             "timestamp": 1665842400,
@@ -7446,7 +7446,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": true
             },
             "away": {
@@ -7482,7 +7482,7 @@
     {
         "fixture": {
             "id": 868056,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -7514,13 +7514,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": false
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": true
             }
         },
@@ -7550,7 +7550,7 @@
     {
         "fixture": {
             "id": 868057,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2023-02-15T19:30:00+00:00",
             "timestamp": 1676489400,
@@ -7618,7 +7618,7 @@
     {
         "fixture": {
             "id": 868058,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -7656,7 +7656,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -7686,7 +7686,7 @@
     {
         "fixture": {
             "id": 868059,
-            "referee": "D. England",
+            "referee": "England Darren, England",
             "timezone": "UTC",
             "date": "2022-10-18T18:30:00+00:00",
             "timestamp": 1666117800,
@@ -7754,7 +7754,7 @@
     {
         "fixture": {
             "id": 868060,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-10-20T18:30:00+00:00",
             "timestamp": 1666290600,
@@ -7786,7 +7786,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": true
             },
             "away": {
@@ -7822,7 +7822,7 @@
     {
         "fixture": {
             "id": 868061,
-            "referee": "P. Bankes",
+            "referee": "Peter Bankes, England",
             "timezone": "UTC",
             "date": "2022-10-20T19:15:00+00:00",
             "timestamp": 1666293300,
@@ -7854,7 +7854,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": true
             },
             "away": {
@@ -7890,7 +7890,7 @@
     {
         "fixture": {
             "id": 868062,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-10-18T19:15:00+00:00",
             "timestamp": 1666120500,
@@ -7928,7 +7928,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": false
             }
         },
@@ -7958,7 +7958,7 @@
     {
         "fixture": {
             "id": 868063,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -7990,7 +7990,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": true
             },
             "away": {
@@ -8026,7 +8026,7 @@
     {
         "fixture": {
             "id": 868064,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -8064,7 +8064,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": false
             }
         },
@@ -8094,7 +8094,7 @@
     {
         "fixture": {
             "id": 868065,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-10-19T19:15:00+00:00",
             "timestamp": 1666206900,
@@ -8126,13 +8126,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": true
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": false
             }
         },
@@ -8162,7 +8162,7 @@
     {
         "fixture": {
             "id": 868066,
-            "referee": "D. England",
+            "referee": "England Darren, England",
             "timezone": "UTC",
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
@@ -8200,7 +8200,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": false
             }
         },
@@ -8230,7 +8230,7 @@
     {
         "fixture": {
             "id": 868067,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-10-22T16:30:00+00:00",
             "timestamp": 1666456200,
@@ -8262,7 +8262,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
@@ -8298,7 +8298,7 @@
     {
         "fixture": {
             "id": 868068,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-10-22T14:00:00+00:00",
             "timestamp": 1666447200,
@@ -8330,7 +8330,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": true
             },
             "away": {
@@ -8366,7 +8366,7 @@
     {
         "fixture": {
             "id": 868069,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
@@ -8398,13 +8398,13 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": false
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": true
             }
         },
@@ -8434,7 +8434,7 @@
     {
         "fixture": {
             "id": 868070,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-10-22T14:00:00+00:00",
             "timestamp": 1666447200,
@@ -8534,7 +8534,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": true
             },
             "away": {
@@ -8670,13 +8670,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": false
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             }
         },
@@ -8738,7 +8738,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": true
             },
             "away": {
@@ -8812,7 +8812,7 @@
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": true
             }
         },
@@ -8874,13 +8874,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": false
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": true
             }
         },
@@ -9010,13 +9010,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -9078,7 +9078,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": true
             },
             "away": {
@@ -9146,13 +9146,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": false
             }
         },
@@ -9356,7 +9356,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": true
             }
         },
@@ -9418,7 +9418,7 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": true
             },
             "away": {
@@ -9486,7 +9486,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": true
             },
             "away": {
@@ -9560,7 +9560,7 @@
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": false
             }
         },
@@ -9622,13 +9622,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": true
             }
         },
@@ -9690,13 +9690,13 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": false
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": true
             }
         },
@@ -9758,7 +9758,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": true
             },
             "away": {
@@ -9832,7 +9832,7 @@
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": false
             }
         },
@@ -9968,7 +9968,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             }
         },
@@ -10166,7 +10166,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": false
             },
             "away": {
@@ -10302,13 +10302,13 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": true
             }
         },
@@ -10438,13 +10438,13 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": false
             }
         },
@@ -10512,7 +10512,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": true
             }
         },
@@ -10574,13 +10574,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": false
             }
         },
@@ -10642,13 +10642,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": true
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": false
             }
         },
@@ -10710,13 +10710,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": false
             }
         },
@@ -10778,7 +10778,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": false
             },
             "away": {
@@ -10846,7 +10846,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": false
             },
             "away": {
@@ -10914,7 +10914,7 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": true
             },
             "away": {
@@ -11050,7 +11050,7 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": null
             },
             "away": {
@@ -11118,13 +11118,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": true
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": false
             }
         },
@@ -11186,13 +11186,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": false
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": true
             }
         },
@@ -11254,13 +11254,13 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": false
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": true
             }
         },
@@ -11328,7 +11328,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": true
             }
         },
@@ -11396,7 +11396,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": true
             }
         },
@@ -11458,13 +11458,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": true
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": false
             }
         },
@@ -11594,7 +11594,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": false
             },
             "away": {
@@ -11662,13 +11662,13 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": true
             }
         },
@@ -11736,7 +11736,7 @@
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": false
             }
         },
@@ -11798,7 +11798,7 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": true
             },
             "away": {
@@ -11866,13 +11866,13 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -11934,7 +11934,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
@@ -12008,7 +12008,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -12070,13 +12070,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": true
             }
         },
@@ -12206,13 +12206,13 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": false
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": true
             }
         },
@@ -12342,13 +12342,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -12410,7 +12410,7 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": true
             },
             "away": {
@@ -12478,13 +12478,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": false
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": true
             }
         },
@@ -12620,7 +12620,7 @@
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": true
             }
         },
@@ -12682,13 +12682,13 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -12824,7 +12824,7 @@
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": false
             }
         },
@@ -12886,7 +12886,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": false
             },
             "away": {
@@ -13022,7 +13022,7 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": true
             },
             "away": {
@@ -13090,13 +13090,13 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": true
             },
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": false
             }
         },
@@ -13164,7 +13164,7 @@
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": false
             }
         },
@@ -13226,7 +13226,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": false
             },
             "away": {
@@ -13294,7 +13294,7 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": true
             },
             "away": {
@@ -13368,7 +13368,7 @@
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": false
             }
         },
@@ -13430,13 +13430,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": true
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": false
             }
         },
@@ -13504,7 +13504,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": true
             }
         },
@@ -13566,13 +13566,13 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": false
             }
         },
@@ -13776,7 +13776,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -13844,7 +13844,7 @@
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": true
             }
         },
@@ -13912,7 +13912,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -14042,13 +14042,13 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -14178,13 +14178,13 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": true
             }
         },
@@ -14246,7 +14246,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": true
             },
             "away": {
@@ -14314,13 +14314,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": false
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": true
             }
         },
@@ -14382,13 +14382,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": false
             }
         },
@@ -14456,7 +14456,7 @@
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": false
             }
         },
@@ -14518,13 +14518,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -14592,7 +14592,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": false
             }
         },
@@ -14654,13 +14654,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": true
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": false
             }
         },
@@ -14864,7 +14864,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": false
             }
         },
@@ -15000,7 +15000,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -15062,13 +15062,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -15130,13 +15130,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -15198,7 +15198,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": true
             },
             "away": {
@@ -15266,13 +15266,13 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": false
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-3.api-sports.io/football/teams/33.png",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
                 "winner": true
             }
         },
@@ -15334,7 +15334,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": true
             },
             "away": {
@@ -15402,7 +15402,7 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": true
             },
             "away": {
@@ -15470,7 +15470,7 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": true
             },
             "away": {
@@ -15544,7 +15544,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": true
             }
         },
@@ -15612,7 +15612,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -15674,7 +15674,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": false
             },
             "away": {
@@ -15742,13 +15742,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -15810,7 +15810,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": false
             },
             "away": {
@@ -15878,7 +15878,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": false
             },
             "away": {
@@ -15946,7 +15946,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": true
             },
             "away": {
@@ -16150,13 +16150,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -16224,7 +16224,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": false
             }
         },
@@ -16360,7 +16360,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -16428,7 +16428,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -16700,7 +16700,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -16836,7 +16836,7 @@
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -16898,7 +16898,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -16966,13 +16966,13 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": null
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -17102,7 +17102,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
@@ -17170,7 +17170,7 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             },
             "away": {
@@ -17244,7 +17244,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -17306,7 +17306,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
@@ -17380,7 +17380,7 @@
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
@@ -17442,7 +17442,7 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             },
             "away": {
@@ -17510,7 +17510,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
@@ -17578,7 +17578,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": null
             },
             "away": {
@@ -17652,7 +17652,7 @@
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": null
             }
         },
@@ -17714,7 +17714,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
@@ -17788,7 +17788,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -17850,7 +17850,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -17918,7 +17918,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -18122,7 +18122,7 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
@@ -18196,7 +18196,7 @@
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -18264,7 +18264,7 @@
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -18394,13 +18394,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -18462,7 +18462,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
@@ -18536,7 +18536,7 @@
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": null
             }
         },
@@ -18740,7 +18740,7 @@
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -18808,7 +18808,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -18876,7 +18876,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -19006,7 +19006,7 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-3.api-sports.io/football/teams/39.png",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
                 "winner": null
             },
             "away": {
@@ -19074,13 +19074,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -19142,7 +19142,7 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
@@ -19210,7 +19210,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
@@ -19284,7 +19284,7 @@
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -19352,7 +19352,7 @@
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": null
             }
         },
@@ -19414,7 +19414,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -19488,7 +19488,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -19618,7 +19618,7 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
@@ -19754,13 +19754,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -19958,7 +19958,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
@@ -20026,7 +20026,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -20094,7 +20094,7 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
@@ -20168,7 +20168,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -20236,7 +20236,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -20502,7 +20502,7 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
@@ -20576,7 +20576,7 @@
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
@@ -20644,7 +20644,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-3.api-sports.io/football/teams/40.png",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -20706,13 +20706,13 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": null
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             }
         },
@@ -20774,13 +20774,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
@@ -20842,13 +20842,13 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -20910,7 +20910,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -20984,7 +20984,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -21052,7 +21052,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -21114,13 +21114,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "logo": "https://media-3.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -21182,13 +21182,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -21318,7 +21318,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
@@ -21386,13 +21386,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "logo": "https://media-3.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -21454,13 +21454,13 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -21590,13 +21590,13 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -21726,7 +21726,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
@@ -21794,13 +21794,13 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -21862,7 +21862,7 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
@@ -21930,13 +21930,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -21998,13 +21998,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "logo": "https://media-3.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
@@ -22066,7 +22066,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-3.api-sports.io/football/teams/48.png",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
                 "winner": null
             },
             "away": {
@@ -22202,7 +22202,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
@@ -22276,7 +22276,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-3.api-sports.io/football/teams/55.png",
                 "winner": null
             }
         },
@@ -22406,7 +22406,7 @@
             "home": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             },
             "away": {
@@ -22610,13 +22610,13 @@
             "home": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media-3.api-sports.io/football/teams/55.png",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
                 "winner": null
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -22820,7 +22820,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "logo": "https://media-3.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -22882,7 +22882,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -22950,13 +22950,13 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-3.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             }
         },
@@ -23024,7 +23024,7 @@
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -23086,13 +23086,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "logo": "https://media-3.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-3.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -23160,7 +23160,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -23228,7 +23228,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-3.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -23290,7 +23290,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -23432,7 +23432,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-3.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -23494,7 +23494,7 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
@@ -23568,7 +23568,7 @@
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-3.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -23630,13 +23630,13 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -23766,13 +23766,13 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": null
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -23834,13 +23834,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-3.api-sports.io/football/teams/42.png",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -23902,13 +23902,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             }
         },
@@ -24038,13 +24038,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -24106,13 +24106,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-3.api-sports.io/football/teams/52.png",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media.api-sports.io/football/teams/35.png",
+                "logo": "https://media-3.api-sports.io/football/teams/35.png",
                 "winner": null
             }
         },
@@ -24310,7 +24310,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "logo": "https://media-3.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -24378,13 +24378,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-3.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -24514,13 +24514,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-3.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
@@ -24582,7 +24582,7 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-3.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
@@ -24650,7 +24650,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "logo": "https://media-3.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -24724,7 +24724,7 @@
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-3.api-sports.io/football/teams/66.png",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -24792,7 +24792,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-3.api-sports.io/football/teams/49.png",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -24922,13 +24922,13 @@
             "home": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media-3.api-sports.io/football/teams/65.png",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-3.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -24990,7 +24990,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-3.api-sports.io/football/teams/47.png",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -25064,7 +25064,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "logo": "https://media-3.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -25262,13 +25262,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-3.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "logo": "https://media-3.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -25336,7 +25336,7 @@
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-3.api-sports.io/football/teams/50.png",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -25398,13 +25398,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-3.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-3.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -25472,7 +25472,7 @@
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-3.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -25534,7 +25534,7 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-3.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
@@ -25670,7 +25670,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-3.api-sports.io/football/teams/46.png",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -25738,13 +25738,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-3.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-3.api-sports.io/football/teams/36.png",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
                 "winner": null
             }
         },
