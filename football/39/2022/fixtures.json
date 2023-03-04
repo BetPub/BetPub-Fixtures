@@ -17552,7 +17552,7 @@
             "timestamp": 1677951000,
             "periods": {
                 "first": 1677951000,
-                "second": null
+                "second": 1677954600
             },
             "venue": {
                 "id": 585,
@@ -17560,9 +17560,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 89
             }
         },
         "league": {
