@@ -17008,7 +17008,7 @@
             "timestamp": 1677942000,
             "periods": {
                 "first": 1677942000,
-                "second": null
+                "second": 1677945600
             },
             "venue": {
                 "id": 494,
@@ -17016,9 +17016,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
@@ -17046,7 +17046,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -17076,7 +17076,7 @@
             "timestamp": 1677942000,
             "periods": {
                 "first": 1677942000,
-                "second": null
+                "second": 1677945600
             },
             "venue": {
                 "id": 495,
@@ -17084,9 +17084,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
@@ -17103,22 +17103,22 @@
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -17212,7 +17212,7 @@
             "timestamp": 1677942000,
             "periods": {
                 "first": 1677942000,
-                "second": null
+                "second": 1677945600
             },
             "venue": {
                 "id": 508,
@@ -17220,9 +17220,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
@@ -17249,7 +17249,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -17280,7 +17280,7 @@
             "timestamp": 1677942000,
             "periods": {
                 "first": 1677942000,
-                "second": null
+                "second": 1677945600
             },
             "venue": {
                 "id": 519,
@@ -17288,9 +17288,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 62
             }
         },
         "league": {
@@ -17307,17 +17307,17 @@
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -17620,7 +17620,7 @@
             "timestamp": 1677942000,
             "periods": {
                 "first": 1677942000,
-                "second": null
+                "second": 1677945600
             },
             "venue": {
                 "id": 600,
@@ -17628,9 +17628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 56
             }
         },
         "league": {
