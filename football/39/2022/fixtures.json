@@ -17546,12 +17546,12 @@
     {
         "fixture": {
             "id": 868204,
-            "referee": "R. Jones",
+            "referee": "Robert Jones, England",
             "timezone": "UTC",
             "date": "2023-03-04T17:30:00+00:00",
             "timestamp": 1677951000,
             "periods": {
-                "first": null,
+                "first": 1677951000,
                 "second": null
             },
             "venue": {
@@ -17560,9 +17560,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -17579,23 +17579,23 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
