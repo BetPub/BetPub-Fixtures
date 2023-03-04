@@ -17007,7 +17007,7 @@
             "date": "2023-03-04T15:00:00+00:00",
             "timestamp": 1677942000,
             "periods": {
-                "first": null,
+                "first": 1677942000,
                 "second": null
             },
             "venue": {
@@ -17016,9 +17016,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -17035,23 +17035,23 @@
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -17075,7 +17075,7 @@
             "date": "2023-03-04T15:00:00+00:00",
             "timestamp": 1677942000,
             "periods": {
-                "first": null,
+                "first": 1677942000,
                 "second": null
             },
             "venue": {
@@ -17084,9 +17084,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 19
             }
         },
         "league": {
@@ -17113,13 +17113,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -17211,7 +17211,7 @@
             "date": "2023-03-04T15:00:00+00:00",
             "timestamp": 1677942000,
             "periods": {
-                "first": null,
+                "first": 1677942000,
                 "second": null
             },
             "venue": {
@@ -17220,9 +17220,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -17239,23 +17239,23 @@
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -17279,7 +17279,7 @@
             "date": "2023-03-04T15:00:00+00:00",
             "timestamp": 1677942000,
             "periods": {
-                "first": null,
+                "first": 1677942000,
                 "second": null
             },
             "venue": {
@@ -17288,9 +17288,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 19
             }
         },
         "league": {
@@ -17317,13 +17317,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -17424,8 +17424,8 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90
             }
         },
@@ -17462,8 +17462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -17619,7 +17619,7 @@
             "date": "2023-03-04T15:00:00+00:00",
             "timestamp": 1677942000,
             "periods": {
-                "first": null,
+                "first": 1677942000,
                 "second": null
             },
             "venue": {
@@ -17628,9 +17628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -17657,13 +17657,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
