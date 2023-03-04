@@ -17018,7 +17018,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 61
+                "elapsed": 64
             }
         },
         "league": {
@@ -17045,7 +17045,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         },
         "score": {
@@ -17086,7 +17086,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 61
+                "elapsed": 65
             }
         },
         "league": {
@@ -17222,7 +17222,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 61
+                "elapsed": 65
             }
         },
         "league": {
@@ -17290,7 +17290,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 62
+                "elapsed": 66
             }
         },
         "league": {
@@ -17630,7 +17630,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 56
+                "elapsed": 60
             }
         },
         "league": {
