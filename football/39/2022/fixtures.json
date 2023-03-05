@@ -17494,7 +17494,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 19
+                "elapsed": 23
             }
         },
         "league": {
@@ -17511,22 +17511,22 @@
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": false
+                "winner": null
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": true
+                "winner": null
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 1
             },
             "fulltime": {
