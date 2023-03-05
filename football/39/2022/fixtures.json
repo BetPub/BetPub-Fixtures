@@ -17484,7 +17484,7 @@
             "timestamp": 1678024800,
             "periods": {
                 "first": 1678024800,
-                "second": null
+                "second": 1678028400
             },
             "venue": {
                 "id": 566,
@@ -17492,9 +17492,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
@@ -17511,23 +17511,23 @@
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 1,
-                "away": 1
+                "away": 2
             },
             "fulltime": {
                 "home": null,
