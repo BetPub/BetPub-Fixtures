@@ -17348,7 +17348,7 @@
             "timestamp": 1678033800,
             "periods": {
                 "first": 1678033800,
-                "second": null
+                "second": 1678037400
             },
             "venue": {
                 "id": 550,
@@ -17356,9 +17356,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -17385,7 +17385,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 7,
             "away": 0
         },
         "score": {
