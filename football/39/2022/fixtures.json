@@ -17144,7 +17144,7 @@
             "timestamp": 1678132800,
             "periods": {
                 "first": 1678132800,
-                "second": null
+                "second": 1678136400
             },
             "venue": {
                 "id": 10503,
@@ -17152,9 +17152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 58
             }
         },
         "league": {
@@ -17181,13 +17181,13 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 1,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
