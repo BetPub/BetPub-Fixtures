@@ -17756,7 +17756,7 @@
             "timestamp": 1678555800,
             "periods": {
                 "first": 1678555800,
-                "second": null
+                "second": 1678559400
             },
             "venue": {
                 "id": 525,
@@ -17764,9 +17764,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -17783,18 +17783,18 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
