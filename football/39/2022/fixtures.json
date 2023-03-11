@@ -17696,8 +17696,8 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90
             }
         },
@@ -17734,8 +17734,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -17823,7 +17823,7 @@
             "date": "2023-03-11T15:00:00+00:00",
             "timestamp": 1678546800,
             "periods": {
-                "first": null,
+                "first": 1678546800,
                 "second": null
             },
             "venue": {
@@ -17832,9 +17832,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 19
             }
         },
         "league": {
@@ -17851,23 +17851,23 @@
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -17959,7 +17959,7 @@
             "date": "2023-03-11T15:00:00+00:00",
             "timestamp": 1678546800,
             "periods": {
-                "first": null,
+                "first": 1678546800,
                 "second": null
             },
             "venue": {
@@ -17968,9 +17968,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -17997,13 +17997,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -18027,7 +18027,7 @@
             "date": "2023-03-11T15:00:00+00:00",
             "timestamp": 1678546800,
             "periods": {
-                "first": null,
+                "first": 1678546800,
                 "second": null
             },
             "venue": {
@@ -18036,9 +18036,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -18055,23 +18055,23 @@
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -18231,7 +18231,7 @@
             "date": "2023-03-11T15:00:00+00:00",
             "timestamp": 1678546800,
             "periods": {
-                "first": null,
+                "first": 1678546800,
                 "second": null
             },
             "venue": {
@@ -18240,9 +18240,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -18269,13 +18269,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
