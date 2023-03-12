@@ -17891,7 +17891,7 @@
             "date": "2023-03-12T14:00:00+00:00",
             "timestamp": 1678629600,
             "periods": {
-                "first": null,
+                "first": 1678629600,
                 "second": null
             },
             "venue": {
@@ -17900,9 +17900,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -17929,13 +17929,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -18095,7 +18095,7 @@
             "date": "2023-03-12T14:00:00+00:00",
             "timestamp": 1678629600,
             "periods": {
-                "first": null,
+                "first": 1678629600,
                 "second": null
             },
             "venue": {
@@ -18104,9 +18104,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -18133,13 +18133,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -18299,7 +18299,7 @@
             "date": "2023-03-12T14:00:00+00:00",
             "timestamp": 1678629600,
             "periods": {
-                "first": null,
+                "first": 1678629600,
                 "second": null
             },
             "venue": {
@@ -18308,9 +18308,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 19
             }
         },
         "league": {
@@ -18327,23 +18327,23 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
